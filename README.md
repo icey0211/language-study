@@ -18,10 +18,10 @@ Purpose（项目目的）
 
 数据概览
 方言类型	时长	说话人数	场景分类	特殊标注项
-北京话	15min	3人	北京相声	儿化音（"事儿"→"shèr"）
-东北话	15min	-人	------	动词替换（"整"="做"）
-山东话	15min	-人	------	声调变异（"喝"→"hēi"）
-粤语	15min	-人	家庭对话	特有词汇（"咩"="什么"）
+北京话	15min	3人	北京相声	儿化音
+东北话	15min	-人	------	动词替换
+山东话	15min	-人	------	声调变异
+粤语	15min	-人	家庭对话	特有词汇
 
 标注格式规范（中英对照+词性）
 1. CSV格式示例
@@ -43,11 +43,13 @@ Purpose（项目目的）
 ├── /raw_audio                  # 原始音频
 │   ├── /beijing                # 北京话
 │   ├── /dongbei                # 东北话  
-│   └── ...（其他方言）
+│   └── /yueyu                  # 粤语
+│   └── /shandong               # 山东话
 /annotations
 ├── /per_char_annotations
 │   ├── beijing_pos.csv       # 北京话字粒度标注
-│   ├── shandong_pos.json     # 山东话JSON格式
-│   └── ...
+│   ├── shandong_pos.csv      # 山东话字粒度标注
+│   └── yueyu_pos.csv         # 粤语字粒度标注
+│   └── dongbei_pos.csv。     # 东北话字粒度标注
 ├── vocabulary_glossary.md    # 方言特殊词汇对照表（含词性）
 └── pos_tag_guidelines.md     # 词性标注规范文档
