@@ -2,7 +2,7 @@
 ## Beijing, Dongbei, Shandong and Cantonese Dialect Contrast Corpus  
 
 **Abstract**  
-This dataset provides 1 hours of annotated audio recordings covering four major Chinese dialects (Beijing, Northeastern, Shandong, Cantonese) with parallel Mandarin translations. Each dialect utterance is segmented at character level, annotated with English glosses and Universal POS tags, enabling cross-dialect linguistic analysis and ASR model training. Data was collected from authentic scenarios like family conversations and market interactions, with rigorous anonymization to protect speaker privacy. The corpus aims to preserve endangered dialect features and serve as a benchmark for computational dialectology. Available under CC-BY-NC 4.0 license at [GitHub Link]   
+This dataset provides 1 hours of annotated audio recordings covering four major Chinese dialects (Beijing, Northeastern, Shandong, Cantonese) with parallel Mandarin translations. Each dialect utterance is segmented at character level, annotated with English glosses and Universal POS tags, enabling cross-dialect linguistic analysis and ASR model training. Data was collected from authentic scenarios like family conversations and market interactions, with rigorous anonymization to protect speaker privacy. The corpus aims to preserve endangered dialect features and serve as a benchmark for computational dialectology. Available under CC-BY-NC 4.0 license at (https://github.com/icey0211/language-study) 
 
 **Key Features**  
 - 📍 **Coverage**: 15min per dialect (1h total) 
@@ -13,4 +13,4 @@ This dataset provides 1 hours of annotated audio recordings covering four major 
   - Sociolinguistic studies
 
 Available under CC-BY-NC 4.0 license at:
-https://github.com/icey0211/language-study/edit/main/README.md
+(https://github.com/icey0211/language-study)
