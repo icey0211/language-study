@@ -2,10 +2,10 @@
 wav_id｜dialect_text｜	ENGLISH_GLOSS｜POS_SEQUENCE｜mandarin_text	｜notes
 Wav0001｜今儿个｜[today]｜PART｜erhua_suffix｜PART｜｜｜今天｜儿化音"今儿"表时间
 Wav0002｜我就给在座的各位讲一个老北京胡同儿里的故事｜I｜will｜tell｜a｜old｜Beijing｜hutong｜story｜PRON｜AUX｜VERB｜DET｜ADJ｜PROPN｜NOUN｜NOUN｜我要给在座的各位讲一个老北京胡同的故事｜"在座"为敬语，"胡同儿"儿化音省略
-Wav0003｜这个故事呢充满了地道的北京韵味｜this｜story｜[topic]｜full｜of｜authentic｜Beijing｜flavor｜DET｜NOUN｜PART｜ADJ｜ADP｜ADJ｜PROPN｜NOUN｜这个故事充满了地道的北京韵味	"呢"为话题标记
-Wav0004｜和邻里温情｜and｜neighborhood｜warmth｜CCONJ｜NOUN｜NOUN｜和邻里的温情	省略"的"字结构
+Wav0003｜这个故事呢充满了地道的北京韵味｜this｜story｜[topic]｜full｜of｜authentic｜Beijing｜flavor｜DET｜NOUN｜PART｜ADJ｜ADP｜ADJ｜PROPN｜NOUN｜这个故事充满了地道的北京韵味｜"呢"为话题标记
+Wav0004｜和邻里温情｜and｜neighborhood｜warmth｜CCONJ｜NOUN｜NOUN｜和邻里的温情｜省略"的"字结构
 Wav0005｜这个故事叫做百花深处｜this｜story｜call｜Baihua Shenchu｜DET｜NOUN｜VERB｜PROPN｜这个故事名叫百花深处 专有名词不翻译
-Wav0006｜佟老爷子背着手｜Old Man Tong｜[reciprocal]｜hand	PROPN｜PART｜NOUN｜佟老爷子双手背在身后	交互态标记
+Wav0006｜佟老爷子背着手｜Old Man Tong｜[reciprocal]｜hand	PROPN｜PART｜NOUN｜佟老爷子双手背在身后｜交互态标记
 Wav0007｜遛弯儿回来的时候｜stroll｜[diminutive]｜return｜[time]｜VERB｜PART｜VERB｜PART	散步回来的时候｜"遛弯儿"=北京话"散步"
 Wav0008｜正赶上早市收摊儿｜just｜catch｜morning｜market｜pack｜up｜[diminutive]｜ADV｜VERB｜NOUN｜NOUN｜VERB｜PART｜PART｜正好赶上早市结束营业｜"收摊儿"=结束营业
 Wav0009｜他穿一件洗得发白的蓝布褂子｜he｜wear｜one｜[measure]｜wash｜[result]｜faded｜blue｜cloth｜jacket｜PRON｜VERB｜NUM｜PART｜VERB｜PART｜ADJ｜ADJ｜NOUN｜NOUN｜他穿着一件洗得发白的蓝布褂子｜"褂子"=中式上衣
