@@ -355,3 +355,127 @@ Wav0348|"我哋應該少啲抱怨","We｜should｜complain｜less.","PRON｜VERB
 Wav0349|"多啲讚賞,多啲幫手","Give｜more｜compliments,｜offer｜more｜help.","ADV｜NOUN｜ADV｜VERB｜ADV｜NOUN","呼籲更多支持和對媽媽的讚賞。"
 Wav0350|"唔好再等啦,即刻去比媽媽一個讚啦","Don’t｜wait｜any longer,｜go｜give｜Mom｜a compliment｜now.","ADV｜VERB｜ADV｜ADV｜VERB｜NOUN｜NOUN｜ADV","敦促立即對媽媽表示欣賞。"
 Wav0351|"所有嘅媽媽,一直以嚟辛苦晒你呀","To all｜moms,｜thank you｜for all｜your hard work.","NOUN｜NOUN｜VERB｜PREP｜DET｜NOUN｜NOUN","感謝所有母親的努力付出。"
+Wav0352|"俺是小母猪，佩奇这个猪秧字是俺兄弟，老母猪是俺娘，这个仔猪是俺爹，嘿嘿，让我们嗨起来好吗？","I'm a little female pig, Peppa, this piglet is my brother, the old sow is my mother, and this piglet is my father. Let's have some fun, shall we?","NOUN｜VERB｜ADJ｜NOUN｜PRON｜VERB｜DET｜NOUN｜VERB｜PRON｜NOUN｜VERB｜PRON｜NOUN｜PUNCT","描述家庭成员关系"
+
+Wav0353|"骑洋车记，俺娘来，今门儿太阳怪暖和，猪羔子姊妹俩，把洋车子拥出来骑着玩儿。","Riding on a bike, my mother came, the sun is warm today, the piglet sisters brought out the bike to play.","VERB｜NOUN｜NOUN｜PUNCT｜PRON｜NOUN｜VERB｜VERB｜NOUN｜VERB｜PRON｜VERB｜VERB｜VERB｜PUNCT","描述骑车活动"
+
+Wav0354|"乔治，你使劲蹬哈，她爹你种这个大南瓜怪大哈，猪羔子他爹撅着大猪头一脸傲娇，南瓜长滴好，猪粪少不了，我一天上三回猪粪，这都快成咱家茅房了。","George, pedal harder, her father, you grew this huge pumpkin, the father of the piglet is proudly sticking out his big pig head, the pumpkin is growing well, can't do without pig manure, I clean up pig manure three times a day, it's almost becoming our pigsty.","NOUN｜PUNCT｜PRON｜VERB｜VERB｜PUNCT｜PRON｜NOUN｜PRON｜VERB｜DET｜ADJ｜NOUN｜ADJ｜PUNCT｜NOUN｜VERB｜VERB｜ADV｜PUNCT｜PROPN｜VERB｜VERB｜VERB｜DET｜ADJ｜NOUN｜VERB｜ADJ｜PUNCT｜NOUN｜ADJ｜ADV｜VERB｜VERB｜PRON｜NUM｜NOUN｜PUNCT｜PRON｜ADV｜ADV｜VERB｜PRON｜NOUN｜PUNCT","描述种南瓜和生活细节"
+
+Wav0355|"猪羔子他爹用他强壮的猪蹄子很快就把轱辘给卸掉了，丫头轱辘卸掉了，你还敢骑吗？","The father of the piglet quickly removed the wheels with his strong pig hooves, the wheels are off, do you still dare to ride?","NOUN｜PRON｜NOUN｜ADV｜ADV｜VERB｜DET｜NOUN｜ADP｜DET｜ADJ｜NOUN｜VERB｜VERB｜PUNCT","描述父猪移除车轮情况"
+
+Wav0356|"咱家南瓜拱坏了，你咋呼什么的，拱坏了你上俺家摘，My family's pumpkin got ruined, why are you shouting, if it's ruined, you climb up to pick from our house.","PRON｜NOUN｜VERB｜PUNCT｜PRON｜PRON｜VERB｜PRON｜VERB｜PRON｜VERB｜ADP｜PRON｜NOUN｜PUNCT","描述南瓜被损坏和后续行动"
+
+Wav0357|"小母猪佩奇骑的有点慢，可能是脚蹬子不好使了，俺娘来，邪乎点发生发生追尾。","Peppa the little pig is riding a bit slowly, maybe the foot pedal isn't working well, my mother came, something strange happened, a rear-end collision occurred.","ADJ｜NOUN｜PROPN｜VERB｜ADP｜ADV｜ADJ｜PUNCT｜ADV｜VERB｜NOUN｜VERB｜NOUN｜VERB｜PUNCT","描述骑车过程中的事件"
+
+Wav0358|"我天老爷，乔治骑得更慢，还不如人家推着车子步撵走快。","Goodness gracious, George is riding even slower, not as fast as someone walking and pushing their bike.","PRON｜NOUN｜NOUN｜VERB｜ADV｜ADJ｜PUNCT｜ADV｜ADV｜ADP｜PRON｜VERB｜VERB｜ADP｜NOUN｜VERB｜ADJ｜PUNCT","描述骑车速度比较"
+
+Wav0359|"乔治，你那是童车骑的就是慢，嘿嘿嘿，你别说人家哈你后面不也带两个小轱辘嘛，你自己瞅瞅啊。","George, you're riding the kiddie bike, that's why it's so slow, don't laugh, didn't you also have two small wheels behind you, take a look.","PROPN｜PUNCT｜PRON｜VERB｜DET｜NOUN｜NOUN｜VERB｜ADV｜ADJ｜PUNCT｜VERB｜PRON｜ADV｜VERB｜NUM｜ADJ｜NOUN｜ADV｜PRON｜PRON｜PRON｜VERB｜VERB｜PUNCT","描述乔治骑车情况"
+
+Wav0360|"俺娘来，俺的可是大人骑的洋车子，俺的也是的，哈哈。","My mother came, the bike I ride is for adults, mine is too, haha.","PRON｜NOUN｜VERB｜PRON｜DET｜ADJ｜NOUN｜VERB｜DET｜PUNCT","描述骑车情况"
+
+Wav0361|"佩奇的猪脸有点发红，咱骑着洋车子溜溜去了，","Peppa's pig face turned slightly red, we rode the bike and went away.","PROPN｜ADJ｜NOUN｜VERB｜ADV｜VERB｜DET｜NOUN｜CONJ｜VERB｜ADV｜PUNCT","描述骑车情况"
+
+Wav0362|"今门缝集俺不去了，你们去吧，俺走了哈？","I'm not going to the gathering today, you guys go, I'll leave, okay?","ADV｜NOUN｜VERB｜PRON｜ADV｜VERB｜PUNCT｜PRON｜VERB｜PUNCT｜PRON｜VERB｜PUNCT","描述离开情况"
+
+Wav0363|"谢谢，也不给你捎点豆饼子吃，俺家还有。","Thank you, I won't bring you some bean cakes to eat, we have some at home.","VERB｜PUNCT｜ADV｜ADV｜VERB｜PRON｜VERB｜DET｜NOUN｜NOUN｜PART｜VERB｜PRON｜VERB｜DET｜ADP｜NOUN｜PUNCT","描述礼貌和拒绝"
+
+Wav0364|"佩奇想把小洋车后面的小轱辘给卸掉，爹你找螺丝刀子把那两个小轱辘给俺卸去不行嘛？","Peppa wants to remove the small wheels from the back of the bike, Dad, can you find a screwdriver to remove those two small wheels for me?","PROPN｜VERB｜ADP｜ADJ｜NOUN｜NOUN｜VERB｜VERB｜PRON｜VERB｜NOUN｜VERB｜DET｜NUM｜ADJ｜NOUN｜VERB｜PRON｜VERB｜PUNCT","描述小猪佩奇想移除车轮情况"
+
+Wav0365|"卸去你要卡倒了可怎弄。卡不死就行啊，爹:行，那我给你卸去哈。","If it gets stuck when you remove them, what should we do? As long as it doesn't get stuck, it's fine, Dad: Alright, then I'll remove them for you.","VERB｜PRON｜VERB｜VERB｜ADV｜PUNCT｜VERB｜PRON｜VERB｜PUNCT｜ADV｜VERB｜ADV｜VERB｜PUNCT｜PUNCT｜PRON｜VERB｜PRON｜VERB｜PRON｜PUNCT","描述移除车轮后可能发生的情况"
+
+Wav0366|"猪羔子他爹用他强壮的猪蹄子很快就把轱辘给卸掉了，","The father of the piglet quickly removed the wheels with his strong pig hooves.","NOUN｜PRON｜NOUN｜PRON｜ADJ｜VERB｜DET｜NOUN｜ADP｜DET｜ADJ｜NOUN｜ADP｜DET｜ADJ｜NOUN｜VERB｜PRON｜VERB｜DET｜PUNCT","描述父猪移除车轮情况"
+
+Wav0367|"丫头轱辘卸掉了，你还敢骑吗？","The wheels are removed, do you still dare to ride?","DET｜NOUN｜VERB｜VERB｜PUNCT｜PRON｜ADV｜VERB｜VERB｜PUNCT","描述移除车轮后的挑战"
+
+Wav0368|"你还敢骑吗？","Do you still dare to ride?","PRON｜ADV｜VERB｜PUNCT","描述挑战"
+
+Wav0369|"Peppa学会了骑大梁、自行车、再也不骑童车了再也不炸麦秸垛了，","Peppa learned to ride a beam, a bike, and never rides a kiddie bike again, never blows up straw stacks again.","PROPN｜VERB｜PART｜VERB｜DET｜NOUN｜PUNCT｜DET｜NOUN｜PUNCT｜ADV｜VERB｜ADV｜VERB｜DET｜NOUN｜PUNCT｜ADV｜ADV｜VERB｜ADP｜NOUN｜NOUN｜ADV｜PUNCT","描述学会骑车的情况"
+
+Wav0370|"猪羔子佩奇滋儿的不行，他还想学单手招，他还想学大撒把，哈喽兄弟俺学会骑洋车了，","Peppa is very excited, he wants to learn riding with one hand, he wants to learn some more cool moves, hey brothers, I learned how to ride a bike.","NOUN｜VERB｜ADV｜PART｜ADV｜PUNCT｜PRON｜ADV｜VERB｜VERB｜NOUN｜VERB｜PRON｜ADV｜VERB｜ADP｜PRON｜VERB｜PRON｜VERB｜PRON｜PUNCT｜INTJ｜NOUN｜PRON｜VERB｜VERB｜VERB｜DET｜VERB｜ADP｜NOUN｜PUNCT","描述兴奋学习骑车的情况"
+
+Wav0371|"咱再来回比赛，从这上面骑下去。来吧这次的比赛数佩奇骑的最快，他真烧包啊佩奇不光不慢点骑，他还回头拉呱，他还大撒，把俺的娘咣当一声，我的娘。","Let's have another race, ride down from here. Come on, this time's race, see if Peppa rides the fastest, he's really good at it. Peppa not only rides fast, but also looks back and shows off, he even knocked into my mother.","PRON｜ADV｜VERB｜VERB｜PUNCT｜ADP｜DET｜ADV｜NOUN｜PRON｜VERB｜DET｜ADJ｜PUNCT｜PRON｜ADV｜ADV｜VERB｜DET｜ADV｜ADJ｜VERB｜PRON｜ADV｜ADV｜VERB｜PRON｜VERB｜VERB｜VERB｜DET｜NOUN｜PUNCT｜PRON｜VERB｜ADV｜ADV｜VERB｜NOUN｜VERB｜DET｜ADJ｜PUNCT","描述骑车比赛和行为"
+
+Wav0372|"第二，咱今晚喝南瓜汤行吧？我瞅着行，谁都不兴走哈，一人一锅。","Secondly, how about we have pumpkin soup tonight? I think it's a good idea, no one should leave, one pot per person.","ADV｜PUNCT｜PRON｜NOUN｜VERB｜NOUN｜NOUN｜PUNCT｜PRON｜VERB｜DET｜VERB｜PUNCT｜PRON｜VERB｜ADV｜VERB｜PUNCT｜PRON｜PRON｜ADV｜VERB｜PUNCT｜NUM｜NOUN｜NUM｜PUNCT","描述晚餐计划"
+
+Wav0373|"俺是鲁猪佩奇，这是俺弟弟乔治。这个两百斤的老母猪是俺娘，这个四百斤的公猪是俺爹。让我们嗨起来好吗，烙煎饼。","I'm the rustic pig Peppa, this is my little brother George. This 200-pound old sow is my mother, this 400-pound boar is my father. Let's have some fun, shall we, making pancakes.","PRON｜VERB｜DET｜ADJ｜NOUN｜PROPN｜PUNCT｜DET｜VERB｜NUM｜MEASURE｜ADJ｜NOUN｜VERB｜PRON｜NOUN｜DET｜NUM｜MEASURE｜ADJ｜NOUN｜VERB｜PRON｜NOUN｜PUNCT｜VERB｜PRON｜VERB｜PUNCT｜VERB｜PRON｜PUNCT","描述自我介绍和家庭成员"
+
+Wav0374|"到晌午了，老嬷嬷想烙煎饼吃，今天给恁烙个煎饼吃。煎饼，真好吃啊，煎饼卷大葱。","It's noon, the old lady wants to make pancakes to eat, today she will make pancakes for you to eat. Pancakes, so delicious, pancakes rolled with spring onions.","ADP｜NOUN｜PUNCT｜NOUN｜VERB｜VERB｜NOUN｜VERB｜PRON｜VERB｜VERB｜NOUN｜PUNCT｜NOUN｜PUNCT｜ADJ｜ADJ｜VERB｜NOUN｜PUNCT","描述准备煎饼和煎饼品尝"
+
+Wav0375|"山东人都喜欢煎饼我可太会烙煎饼了，让我烙行不。","People from Shandong all love pancakes, I'm really good at making pancakes, let me make them, okay?","PROPN｜NOUN｜ADV｜VERB｜NOUN｜PRON｜ADV｜ADJ｜VERB｜NOUN｜PUNCT｜VERB｜PRON｜VERB｜PRON｜PUNCT","描述擅长烙煎饼请求"
+
+Wav0376|"可别喜人了，孩他爹，上回叫你烙鏊子都叫你烙找不着。","Don't be too pleased, old man, last time when asked you to make pancakes, you couldn't find the spatula.","VERB｜ADV｜ADJ｜PUNCT｜NOUN｜PRON｜PUNCT｜ADV｜VERB｜PRON｜VERB｜NOUN｜ADV｜VERB｜PRON｜VERB｜PRON｜PUNCT","描述叫父亲烙鏊子的情况"
+
+Wav0377|"不是叫我弄找不着的，鏊子叫他二奶奶拿去了。","It's not that I couldn't find the spatula, it was taken by his second grandmother.","ADV｜VERB｜PRON｜VERB｜VERB｜ADV｜PUNCT｜NOUN｜VERB｜PRON｜NUM｜NOUN｜VERB｜PUNCT","描述鏊子被二奶奶拿走的情况"
+
+Wav0378|"娘，俺能帮忙给你烙煎饼吗？","Mom, can I help you make pancakes?","NOUN｜PUNCT｜PRON｜VERB｜VERB｜PRON｜VERB｜NOUN｜PUNCT","描述询问是否可以帮忙烙煎饼"
+
+Wav0379|"那太好了耶，先往盆里放点杂粮面儿，再往里打个草鸡蛋，再放点豆汁儿，然后再硌愣硌愣。","That's great, first put some mixed grain flour in the bowl, then add a raw egg, then pour some soy milk, and then mix it well.","ADP｜ADV｜NOUN｜VERB｜NOUN｜NOUN｜PUNCT｜ADV｜VERB｜VERB｜DET｜NOUN｜VERB｜DET｜NOUN｜PUNCT｜ADV｜VERB｜NOUN｜PUNCT","描述准备煎饼材料和过程"
+
+Wav0380|"娘，那我能硌愣硌愣吗？","Mom, can I mix it well?","NOUN｜PUNCT｜PRON｜PRON｜VERB｜VERB｜PRON｜PUNCT","描述请求是否可以搅拌"
+
+Wav0381|"佩奇揉过面，他弟弟活过泥。","Peppa kneaded the dough, his little brother played with the mud.","PROPN｜VERB｜ADV｜NOUN｜PUNCT｜PRON｜NOUN｜VERB｜ADV｜NOUN｜PUNCT","描述揉面和玩泥情况"
+
+Wav0382|"来乔治，咱和泥玩儿。","Come on George, let's play with the mud.","VERB｜PROPN｜PUNCT｜PRON｜CONJ｜NOUN｜VERB｜PUNCT","描述邀请玩泥情况"
+
+Wav0383|"行了两个泼小孩，这么大了不让我省心，我硌来吧，老嬷嬷的第一个煎饼烙好了俺娘真管，第一个给俺吃吧，孩他娘。","These two mischievous kids, they're so big and still don't let me relax, I'll do it, the first pancake made by the old lady is ready, mom will take care of it, give me the first one to eat, dear.","VERB｜NUM｜PRON｜NOUN｜PUNCT｜PRON｜ADV｜VERB｜PUNCT｜PRON｜VERB｜VERB｜PRON｜DET｜NUM｜NOUN｜VERB｜VERB｜DET｜NOUN｜ADV｜VERB｜PRON｜VERB｜PRON｜PUNCT","描述烙煎饼过程和第一块煎饼"
+
+Wav0384|"你想的比你长的还美呢。","You're dreaming of things even more beautiful than yourself.","PRON｜VERB｜ADP｜PRON｜ADJ｜ADP｜ADV｜ADJ｜PUNCT","描述夸奖对方想象"
+
+Wav0385|"第一个煎饼给了乔治，嬷嬷在他的煎饼上放了点儿豆瓣，真好吃呀，第二个煎饼马上也烙好了，俺娘真管！","The first pancake was given to George, the old lady put a little bean paste on his pancake, so delicious, the second pancake was also made immediately, mom took care of it!","DET｜NUM｜NOUN｜VERB｜VERB｜PROPN｜PUNCT｜DET｜NOUN｜VERB｜PART｜VERB｜NOUN｜PUNCT｜ADV｜ADJ｜PUNCT｜DET｜NUM｜NOUN｜ADV｜ADV｜VERB｜ADV｜VERB｜ADV｜VERB｜DET｜NOUN｜VERB｜PUNCT","描述给第一块煎饼"
+
+Wav0386|"第二个该给我了吧，孩他娘，你想得美啊孩他爹，第二个是俺闺女滴，豆瓣酱！嗯，真好吃啊！","The second one should be given to me, dear, you're thinking too much, dear, the second one is for my daughter, bean paste! Mmm, so delicious!","DET｜NUM｜ADV｜VERB｜PRON｜VERB｜PRON｜PUNCT｜PRON｜VERB｜ADV｜PUNCT｜DET｜NUM｜VERB｜PRON｜PUNCT｜PRON｜VERB｜DET｜NOUN｜PUNCT｜INTJ｜PUNCT｜ADV｜ADJ｜PUNCT","描述分发第二块煎饼"
+
+Wav0387|"老嬷嬷得第三个煎饼烙好了，俺娘真管！这个煎饼该是我的了吧，孩他娘，自己烙了自己吃，不是说烙的比我好吗，你。嗯，真好吃！","The old lady has made the third pancake, mom really takes care of it! This pancake should be mine, dear, you made it for yourself, not like you said making it better than mine, right? Mmm, so delicious!","DET｜NOUN｜VERB｜DET｜NUM｜NOUN｜VERB｜ADV｜PUNCT｜DET｜NOUN｜VERB｜PRON｜PUNCT｜PRON｜VERB｜PRON｜VERB｜PRON｜VERB｜PRON｜PUNCT｜INTJ｜PUNCT｜ADV｜ADJ｜PUNCT","描述分发第三块煎饼及比较"
+
+Wav0388|"谁想看我烙煎饼？煎饼现要烙的好吃，就得往高了扔，一二三，扔。","Who wants to watch me make pancakes? For pancakes to be delicious, they need to be thrown high, one, two, three, throw.","PRON｜VERB｜VERB｜PRON｜VERB｜NOUN｜PUNCT｜NOUN｜VERB｜VERB｜VERB｜ADJ｜VERB｜VERB｜VERB｜VERB｜PUNCT｜NUM｜PUNCT","描述烙煎饼并扔高动作"
+
+Wav0389|"大潮巴，娘嘞，扔太高了，喜死我了他爹，那是最后一个，我够够看看能够下来不。","Oh my, mom, I threw too high, I'm so happy, that's the last one, let me see if it can come down.","INTJ｜PUNCT｜NOUN｜PUNCT｜VERB｜ADV｜ADJ｜PUNCT｜VERB｜PRON｜VERB｜PUNCT｜PRON｜VERB｜VERB｜VERB｜VERB｜PUNCT","描述扔高动作及观察"
+
+Wav0390|"老头子够不着他的煎饼了，别急孩他爹，你看我跟你够下来，跟我来娃儿们，走这边。","The old man can't reach his pancake, don't worry, dear, watch me, follow me kids, come this way.","NOUN｜VERB｜ADV｜VERB｜PRON｜DET｜NOUN｜PUNCT｜VERB｜ADJ｜PRON｜VERB｜PRON｜VERB｜VERB｜VERB｜PRON｜NOUN｜PUNCT","描述煎饼高处扔动作及引导"
+
+Wav0391|"哦，老嬷嬷你上来干啥？我数个一二三，咱就一快跳，一二三跳。","Oh, why did you come up, old lady? Let's count to three, then jump together, one, two, three, jump.","INTJ｜PUNCT｜NOUN｜PRON｜VERB｜VERB｜PUNCT｜PRON｜VERB｜NUM｜NOUN｜PUNCT｜PRON｜ADV｜NUM｜PUNCT｜NUM｜PUNCT","描述计数和跳跃动作"
+
+Wav0392|"上面干啥的？下来了，现在老头可以吃煎饼。","What were you doing up there? Come down, now the old man can eat the pancake.","ADV｜VERB｜PRON｜ADP｜PRON｜PUNCT｜VERB｜PUNCT｜ADV｜DET｜NOUN｜VERB｜VERB｜DET｜NOUN｜PUNCT","描述动作并允许吃煎饼"
+
+Wav0393|"快看一猪肉夹馍，放点豆瓣酱吗，老头？放上点吧。一二三，走。","Look at this pork sandwich, want some bean paste on it, old man? Put some on. One, two, three, let's go.","INTJ｜VERB｜DET｜NOUN｜NOUN｜PUNCT｜VERB｜DET｜NOUN｜VERB｜PRON｜PUNCT｜VERB｜ADV｜PUNCT｜NUM｜PUNCT","描述准备食物和动作"
+
+Wav0394|"真好吃啊，大潮巴。","So delicious, yummy.","ADV｜ADJ｜PUNCT｜ADJ｜PUNCT","描述食物美味"
+
+Wav0395|"你好大家好，谢谢。","Hello, everyone. Thank you.","INT｜NOUN｜INT｜NOUN","General greeting and expression of gratitude."
+Wav0396|"没事儿，对不起，不好意思哈，没事儿，没关系，哎，再见。","It's okay, sorry, excuse me, it's okay, it doesn't matter, hey, goodbye.","ADV｜INT｜ADV｜INT｜ADV｜NOUN｜INT","Casual expressions for apologizing and farewells."
+Wav0397|"你没事儿吧，不要紧吧，没事儿吧，没事儿，没事没事，着巧啊。","Are you okay? Are you alright? It's okay, it's okay, really okay, what a coincidence.","PRON｜ADV｜ADJ｜INT｜PRON｜ADV｜PRON｜ADV｜PRON｜ADV｜INT","Checking on someone and expressing surprise."
+Wav0398|"你🉐得上哪里啊，你得上哪里啊。","Where do you need to go? Where are you heading?","PRON｜VERB｜PREP｜NOUN｜INT","Colloquial inquiry about destination."
+Wav0399|"欢迎欢迎，热烈欢迎啊。","Welcome, welcome, warmly welcome.","INT｜ADV｜VERB","Expression of enthusiastic hospitality."
+Wav0400|"快进来进来。坐哈坐哈，我给你下水啊，好滴，谢谢。","Come in quickly, have a seat, I'll get you some water. Okay, thank you.","ADV｜VERB｜ADV｜VERB｜PRON｜VERB｜NOUN｜ADV｜INT","Invitation and offering hospitality."
+Wav0401|"不用，甭个甭个，甭个，谢谢。","No need, don't bother, don't bother, thank you.","ADV｜VERB｜INT｜NOUN","Polite refusal."
+Wav0402|"白客气哈，慢点儿慢点儿，不送了安，甭送了，甭送了，囊我就不送了含。","No need to be so polite, take it slow, no need to see me off, no need to see me off, so I won’t see you off.","ADV｜INT｜VERB｜ADV｜VERB｜ADV｜VERB｜PRON｜VERB｜NOUN｜PUNCT","Casual and polite conversation."
+Wav0403|"你知道吧，我不知道啊，我知道，我知道了。","Do you know? I don't know. I know, now I know.","PRON｜VERB｜INT｜PRON｜ADV｜VERB｜PRON｜VERB","Expressions of understanding."
+Wav0404|"你明白啊吧，你能理解啊吧，你知道这个意思啊吧。","Do you understand? Can you understand? Do you know what this means?","PRON｜VERB｜INT｜PRON｜VERB｜NOUN｜INT","Seeking confirmation of comprehension."
+Wav0405|"我不明白啊，我顿混不过来啊，我能我能顿混过来啊，我明白啊，是啊吧，是啊囊，不是啊。","I don't understand, I'm confused, I can figure it out, I understand, yes, yes indeed, no.","PRON｜ADV｜VERB｜PRON｜ADV｜VERB｜PRON｜ADV｜VERB｜INT｜ADV｜INT","Expressions of confusion and understanding."
+Wav0406|"行啊吧，中啊吧，可以啊吧，行不行，可以啊，行啊，中啊囊，好啊吧，好不好啊，好。","Okay, alright, is it okay? Can we? Yes, it's okay, alright, good. Is it good? Yes.","ADV｜VERB｜INT｜ADV｜VERB｜ADV","Seeking and confirming agreement."
+Wav0407|"沾好了啊，不好啊，对啊吧，对啊囊，不对啊囊。","That's right, not good, correct? Yes indeed, not correct indeed.","ADV｜ADJ｜INT","Expressions of correctness."
+Wav0408|"真事啊，真事啊。真事儿假事儿，真事儿啊，假滴啊。","Really? Really? Real or fake? It's real. It's fake.","ADV｜NOUN｜INT｜NOUN｜ADV","Verification of truth."
+Wav0409|"唠你滴啊，八成是，不大可能，你怎么不可能啊囊，那是不可能滴，怎么不可能啊。","Talking about you, most likely, unlikely, how is it impossible? That's impossible, how is it impossible?","VERB｜ADV｜ADJ｜PRON｜ADV｜ADJ","Expressions of doubt and possibility."
+Wav0410|"我同意我不同意，白害怕，白吓着，白担心。","I agree, I disagree, don't be afraid, don't be scared, don't worry.","PRON｜VERB｜PRON｜ADV｜VERB","Agreeing, disagreeing, and reassuring."
+Wav0411|"不要紧，白害怕啊，白急活，慢慢来。","It's alright, don't panic, take it easy.","ADV｜VERB｜ADV｜VERB","Reassuring patience."
+Wav0412|"准备好了没啊。","Are you ready?","VERB｜ADV｜INT","Checking readiness."
+Wav0413|"准备好了啊，还没啊，稍微一等，稍等一下哈，等等我。","I'm ready. Not yet, wait a moment, wait for me.","VERB｜ADV｜INT｜VERB｜ADV｜INT","Asking to wait."
+Wav0414|"等着我囊，等着我囊，快点来，快点，慢着点啊，慢着点儿。","Wait for me, wait for me, come quickly, come quickly, slow down, slow down.","VERB｜PRON｜ADV｜VERB｜ADV｜INT","Encouraging urgency or patience."
+Wav0415|"老天爷来，天神来，我天娘来。","Oh my God, God is coming, oh my goodness.","INT｜NOUN｜INT","Expressions of surprise or exclamation."
+Wav0416|"算了算了，哎，不和你算计些这个啊，小心着点啊囊，看着点儿。","Forget it, forget it, hey, let's not argue about this, be careful, watch out.","VERB｜INT｜VERB｜PRON｜ADV｜INT｜VERB｜NOUN｜PUNCT","Indicating resignation or caution."
+Wav0417|"我奇稀罕你，我刚稀罕你，我非常稀罕你，但是我不稀罕你。","I really like you, I just started liking you, I like you very much, but I don't like you.","PRON｜ADV｜VERB｜PRON｜ADV｜VERB｜PRON｜ADV｜VERB｜CONJ｜PRON｜VERB","Expressions of affection and contradiction."
+Wav0418|"你着烦了罕，我受不了你罕，着可怜啊，怪我啊。","You're annoying, I can't stand you, how pitiful, blame me.","PRON｜ADV｜ADJ｜PRON｜ADV｜VERB｜ADV｜VERB｜INT","Complaints and self-blame."
+Wav0419|"我滴个事儿，哎，寄都怪我，怪我自个啊。","Oh, it's my fault, blame myself.","PRON｜NOUN｜INT｜VERB｜PRON｜PRON","Admitting fault."
+Wav0420|"求求你了罕，你在哪里啊，不好意思，帮帮忙行啊吧。","I beg you, where are you? Excuse me, can you help?","VERB｜PRON｜ADV｜INT｜VERB｜VERB｜INT","Requesting help politely."
+Wav0421|"哎，好滴，好滴，不好意思，我现在没有空啊。","Ah, alright, alright, sorry, I'm not free now.","INT｜ADV｜ADV｜ADV｜PRON｜ADV｜ADV｜NOUN","Apologizing and declining."
+Wav0422|"我钥匙丢了，我钥匙找不着了啊，我找着了。","I lost my keys, I can't find my keys, I found them.","PRON｜NOUN｜VERB｜PRON｜NOUN｜ADV｜VERB｜PRON｜VERB","Expressing loss and resolution."
+Wav0423|"我赢了，你输了，我早就知道了。","I won, you lost, I knew it all along.","PRON｜VERB｜PRON｜VERB｜PRON｜ADV｜VERB","Declaring victory and prior knowledge."
+Wav0424|"恭喜啊恭喜啊，来啊我来啊，过来试试啊，过来试试儿。","Congratulations, congratulations, come here, try it, try it.","ADV｜VERB｜ADV｜PRON｜VERB｜ADV｜VERB｜INT｜VERB","Expressions of celebration and invitation."
+Wav0425|"你得张，不值当的，我乐意啊，囊我愿意张囊，活该囊。","You deserve it, it's not worth it, I'm willing, I want to, you deserve it.","PRON｜VERB｜ADV｜VERB｜PRON｜ADV｜VERB｜ADV｜PRON｜INT","Indicating willingness or judgment."
+Wav0426|"卓耍滑啊，卓聪明卓鬼啊，你怎么那么傻啊囊，你朝啊是咋。","You’re being sneaky, you're clever and cunning, why are you so stupid? What happened?","PRON｜VERB｜ADV｜PRON｜ADV｜ADJ｜PRON｜ADV｜ADV｜INT","Criticism and inquiry."
+Wav0427|"我觉着不大对劲啊，张不公平，我觉着刚公平。","I feel something's wrong, it's unfair, I think it's fair.","PRON｜VERB｜ADV｜ADJ｜PRON｜ADV｜ADJ｜PRON｜VERB｜ADV｜ADJ","Expressing fairness and doubt."
+Wav0428|"我不干了，老子不干了，跟我来，别骗我哈，真事啊。","I'm done, I'm not doing it anymore, follow me, don't lie to me, it's true.","PRON｜ADV｜VERB｜PRON｜ADV｜VERB｜PRON｜VERB｜PRON｜ADV｜INT","Expressions of frustration and urging."
+Wav0429|"我不骗你啊，你待信我。","I'm not lying to you, you should trust me.","PRON｜ADV｜VERB｜PRON｜PRON｜VERB｜PRON","Reassuring honesty."
+Wav0430|"今天我请客儿，让我来买单。","Today I'm treating, let me pay the bill.","NOUN｜PRON｜VERB｜PRON｜PRON｜VERB｜NOUN","Offering hospitality."
+Wav0431|"活到老学到老，再坚持一会儿，再待上煞儿，再撑撑。","Live and learn, hold on a little longer, stay a bit longer, keep going.","VERB｜ADV｜VERB｜ADV｜VERB｜ADV｜VERB｜ADV","Encouraging persistence."
+Wav0432|"加油真棒，哎呀真好啊，着厉害啊，这刚楞了哈，卓楞啊，人奇楞。","Keep it up, great job, oh, that's so good, that's amazing, so stubborn, really stubborn.","VERB｜ADV｜INT｜ADV｜ADJ｜PRON｜ADV｜ADJ","Praising and describing traits."
