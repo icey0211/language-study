@@ -355,6 +355,7 @@ Wav0348|"我哋應該少啲抱怨","We｜should｜complain｜less.","PRON｜VERB
 Wav0349|"多啲讚賞,多啲幫手","Give｜more｜compliments,｜offer｜more｜help.","ADV｜NOUN｜ADV｜VERB｜ADV｜NOUN","呼籲更多支持和對媽媽的讚賞。"
 Wav0350|"唔好再等啦,即刻去比媽媽一個讚啦","Don’t｜wait｜any longer,｜go｜give｜Mom｜a compliment｜now.","ADV｜VERB｜ADV｜ADV｜VERB｜NOUN｜NOUN｜ADV","敦促立即對媽媽表示欣賞。"
 Wav0351|"所有嘅媽媽,一直以嚟辛苦晒你呀","To all｜moms,｜thank you｜for all｜your hard work.","NOUN｜NOUN｜VERB｜PREP｜DET｜NOUN｜NOUN","感謝所有母親的努力付出。"
+*Shandong Dialect*
 Wav0352|"俺是小母猪，佩奇这个猪秧字是俺兄弟，老母猪是俺娘，这个仔猪是俺爹，嘿嘿，让我们嗨起来好吗？","I'm a little female pig, Peppa, this piglet is my brother, the old sow is my mother, and this piglet is my father. Let's have some fun, shall we?","NOUN｜VERB｜ADJ｜NOUN｜PRON｜VERB｜DET｜NOUN｜VERB｜PRON｜NOUN｜VERB｜PRON｜NOUN｜PUNCT","描述家庭成员关系"
 Wav0353|"骑洋车记，俺娘来，今门儿太阳怪暖和，猪羔子姊妹俩，把洋车子拥出来骑着玩儿。","Riding on a bike, my mother came, the sun is warm today, the piglet sisters brought out the bike to play.","VERB｜NOUN｜NOUN｜PUNCT｜PRON｜NOUN｜VERB｜VERB｜NOUN｜VERB｜PRON｜VERB｜VERB｜VERB｜PUNCT","描述骑车活动"
 Wav0354|"乔治，你使劲蹬哈，她爹你种这个大南瓜怪大哈，猪羔子他爹撅着大猪头一脸傲娇，南瓜长滴好，猪粪少不了，我一天上三回猪粪，这都快成咱家茅房了。","George, pedal harder, her father, you grew this huge pumpkin, the father of the piglet is proudly sticking out his big pig head, the pumpkin is growing well, can't do without pig manure, I clean up pig manure three times a day, it's almost becoming our pigsty.","NOUN｜PUNCT｜PRON｜VERB｜VERB｜PUNCT｜PRON｜NOUN｜PRON｜VERB｜DET｜ADJ｜NOUN｜ADJ｜PUNCT｜NOUN｜VERB｜VERB｜ADV｜PUNCT｜PROPN｜VERB｜VERB｜VERB｜DET｜ADJ｜NOUN｜VERB｜ADJ｜PUNCT｜NOUN｜ADJ｜ADV｜VERB｜VERB｜PRON｜NUM｜NOUN｜PUNCT｜PRON｜ADV｜ADV｜VERB｜PRON｜NOUN｜PUNCT","描述种南瓜和生活细节"
