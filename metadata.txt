@@ -189,7 +189,7 @@ Wav0183|於是爸爸就自己整泡菜炒飯食｜so｜dad｜just｜himself｜ma
 Wav0184|披薩真係全世界最好味嘅嘢呀!｜pizza｜truly｜is｜the world｜most｜delicious｜thing｜PART｜NOUN｜ADV｜VERB｜NOUN｜ADJ｜ADJ｜NOUN｜PART｜披薩真係全世界最好味嘅嘢呀!｜表達對披薩的極度喜愛。
 Wav0185|如果可以日日食就好啦!｜if｜can｜every day｜eat｜then｜good｜PART｜CONJ｜VERB｜ADV｜VERB｜CONJ｜ADJ｜PART｜如果可以日日食就好啦!｜願望句，表達對披薩的渴望。
 Wav0186|"志媛狼吞虎燕,左手一塊披薩","Zhi Yuan｜devours｜a pizza｜with her left hand.","NOUN｜VERB｜NOUN｜ADV","描述志媛快速吃披薩的情景。"
-Wav0187"右手又一塊披薩猛咁食","With her right hand,｜she fiercely｜eats｜another pizza.","ADV｜PRON｜ADV｜VERB","強調志媛同時用雙手吃披薩的動作。"
+Wav0187|"右手又一塊披薩猛咁食","With her right hand,｜she fiercely｜eats｜another pizza.","ADV｜PRON｜ADV｜VERB","強調志媛同時用雙手吃披薩的動作。"
 Wav0188|"爸爸喺旁邊食泡菜炒飯,一定心諗","Dad｜eats｜kimchi fried rice｜nearby｜and must be thinking.","NOUN｜VERB｜NOUN｜ADV｜VERB","描寫爸爸一邊吃飯一邊思考。"
 Wav0189|"披薩?有咩好食呀?","Pizza?｜What’s｜so good｜about it?","NOUN｜PRON｜ADV｜ADJ","爸爸對披薩的疑問。"
 Wav0190|"我先唔要日日食披薩呀!","I｜definitely｜don’t want｜to eat｜pizza every day!","PRON｜ADV｜VERB｜VERB｜NOUN","表達對每天吃披薩的強烈拒絕。"
