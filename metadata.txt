@@ -1,172 +1,171 @@
 *Beijing Dialect*
-wav_id｜dialect_text｜	ENGLISH_GLOSS｜POS_SEQUENCE｜mandarin_text	｜notes
-Wav0001｜今儿个｜[today]｜PART｜erhua_suffix｜PART｜｜｜今天｜儿化音"今儿"表时间
-Wav0002｜我就给在座的各位讲一个老北京胡同儿里的故事｜I｜will｜tell｜a｜old｜Beijing｜hutong｜story｜PRON｜AUX｜VERB｜DET｜ADJ｜PROPN｜NOUN｜NOUN｜我要给在座的各位讲一个老北京胡同的故事｜"在座"为敬语，"胡同儿"儿化音省略
-Wav0003｜这个故事呢充满了地道的北京韵味｜this｜story｜[topic]｜full｜of｜authentic｜Beijing｜flavor｜DET｜NOUN｜PART｜ADJ｜ADP｜ADJ｜PROPN｜NOUN｜这个故事充满了地道的北京韵味｜"呢"为话题标记
-Wav0004｜和邻里温情｜and｜neighborhood｜warmth｜CCONJ｜NOUN｜NOUN｜和邻里的温情｜省略"的"字结构
-Wav0005｜这个故事叫做百花深处｜this｜story｜call｜Baihua Shenchu｜DET｜NOUN｜VERB｜PROPN｜这个故事名叫百花深处 专有名词不翻译
-Wav0006｜佟老爷子背着手｜Old Man Tong｜[reciprocal]｜hand	PROPN｜PART｜NOUN｜佟老爷子双手背在身后｜交互态标记
-Wav0007｜遛弯儿回来的时候｜stroll｜[diminutive]｜return｜[time]｜VERB｜PART｜VERB｜PART	散步回来的时候｜"遛弯儿"=北京话"散步"
-Wav0008｜正赶上早市收摊儿｜just｜catch｜morning｜market｜pack｜up｜[diminutive]｜ADV｜VERB｜NOUN｜NOUN｜VERB｜PART｜PART｜正好赶上早市结束营业｜"收摊儿"=结束营业
-Wav0009｜他穿一件洗得发白的蓝布褂子｜he｜wear｜one｜[measure]｜wash｜[result]｜faded｜blue｜cloth｜jacket｜PRON｜VERB｜NUM｜PART｜VERB｜PART｜ADJ｜ADJ｜NOUN｜NOUN｜他穿着一件洗得发白的蓝布褂子｜"褂子"=中式上衣
-Wav0010｜脚上是那双穿了五年的千层底布鞋｜foot｜[location]｜be｜that｜[measure]｜wear｜five｜year｜[possessive]｜layered｜sole｜cloth｜shoe｜NOUN｜PART｜VERB｜DET｜PART｜VERB｜NUM｜NOUN｜PART｜ADJ｜NOUN｜NOUN｜NOUN｜脚上穿着那双穿了五年的千层底布鞋｜"千层底"=传统手工布鞋
-Wav0011｜鞋帮子都磨出了毛边儿｜shoe｜upper｜already｜wear｜out｜[diminutive]｜NOUN｜NOUN｜ADV｜VERB｜ADV｜PART｜鞋帮已经磨出了毛边｜"鞋帮子"=鞋的侧面
-Wav0012｜"哟，佟爷，今儿个起得够早的啊！｜[exclamation]｜Grandpa Tong｜today｜get｜up｜[intensifier]｜early｜[Q]｜PART｜PROPN｜NOUN｜VERB｜VERB｜PART｜ADJ｜PART｜"哟，佟爷，今天起得真早啊！｜"今儿个"=今天，"够...的"=强调
-Wav0013｜卖豆汁儿的王胖子正收拾摊子，油光满面的脸上堆着笑｜sell｜fermented_bean_juice｜[agent]｜Fatty_Wang｜now｜pack_up｜stall｜greasy｜face｜[location]｜pile｜smile｜VERB｜NOUN｜PART｜PROPN｜ADV｜VERB｜NOUN｜ADJ｜NOUN｜PART｜VERB｜NOUN	｜卖豆汁的王胖子正在收拾摊子，油光满面的脸上堆着笑｜"豆汁儿"保留儿化音，"王胖子"为绰号
-Wav0014｜嗐，人老了觉少，五更天就醒。佟老爷子摆摆手[sigh]｜people｜old｜[result]｜sleep｜little｜fifth_watch｜day｜then｜wake_up｜Grandpa_Tong｜wave｜hand｜PART｜NOUN｜ADJ｜PART｜NOUN｜ADJ｜NOUN｜NOUN｜ADV｜VERB｜PROPN｜VERB｜NOUN｜唉，人老了睡眠少，天没亮就醒。佟老爷子摆摆手｜"嗐"=叹息声，"五更天"=凌晨3-5点
-Wav0015｜给我留一碗豆汁儿，俩焦圈儿，我回去拿碗来盛｜give｜me｜keep｜one｜bowl｜fermented_bean_juice｜two｜fried_ring｜I｜go_back｜take｜bowl｜come｜serve｜VERB｜PRON｜VERB｜NUM｜NOUN｜NOUN｜NUM｜NOUN｜PRON｜VERB｜VERB｜NOUN｜VERB｜VERB｜给我留一碗豆汁，两个焦圈，我回去拿碗来装｜"俩"=口语化数量词，"焦圈儿"=北京传统小吃
-Wav0016｜得嘞！给您留着最稠的那锅底儿！｜[acknowledge]｜give｜you｜keep｜[superlative]｜thick｜that｜pot｜bottom｜PART｜VERB｜PRON｜VERB｜PART｜ADJ｜DET｜NOUN｜NOUN	｜好的！给您留着最稠的锅底！｜"得嘞"=北京话应答语，"锅底儿"=最浓稠的部分
-Wav0017｜佟老爷子继续往胡同深处走｜Grandpa_Tong｜continue｜toward｜hutong｜deep｜inside｜walk｜PROPN｜VERB｜ADP｜NOUN｜ADJ｜NOUN｜VERB｜"佟老爷子继续向胡同深处走去｜方位词"深处"作名词处理
-Wav0018｜百花深处这胡同名儿听着雅致｜Baihua_Shenchu｜this｜hutong｜name｜[diminutive]｜sound｜elegant｜PROPN｜DET｜NOUN｜NOUN｜PART｜VERB｜ADJ｜百花深处这个胡同名字听起来很雅致｜专有名词不翻译，"名儿"=儿化音
-Wav0019｜实际上就是条两米来宽的窄道，两边是参差不齐的灰砖平房｜actually｜just｜be｜[measure]｜two｜meter｜about｜wide｜narrow｜path｜two｜side｜be｜uneven｜gray｜brick｜house｜ADV｜ADV｜VERB｜PART｜NUM｜NOUN｜ADV｜ADJ｜ADJ｜NOUN｜NUM｜NOUN｜VERB｜ADJ｜ADJ｜NOUN｜NOUN｜实际上就是一条两米左右宽的窄路，两边是高低不齐的灰砖平房｜"来"=约数词
-Wav0020｜电线杆子上挂着几件晾晒的衣裳，在晨风里轻轻晃荡｜telephone_pole｜[location]｜hang｜several｜[measure]｜air｜dry｜clothes｜in｜morning｜wind｜[location]｜gently｜sway｜NOUN｜PART｜VERB｜ADJ｜PART｜VERB｜VERB｜NOUN｜ADP｜NOUN｜NOUN｜PART｜ADV｜VERB｜电线杆上挂着几件晾晒的衣服，在晨风中轻轻摇晃｜"衣裳"=口语化用词
-Wav0021｜佟叔，您家房顶那瓦我瞅着有点松了，赶明儿我上去给您拾掇拾掇｜Uncle_Tong｜your｜house｜roof｜that｜tile｜I｜look｜a_bit｜loose｜tomorrow｜I｜go_up｜give｜you｜fix｜PROPN｜PRON｜NOUN｜NOUN｜DET｜NOUN｜PRON｜VERB｜ADV｜ADJ｜NOUN｜PRON｜VERB｜VERB｜PRON｜VERB｜佟叔，您家房顶的瓦片我看着有点松了，明天我上去帮您修修｜"瞅"=看，"拾掇"=修理，"赶明儿"=明天
-Wav0022｜修自行车的李三儿蹲在门口刷牙｜repair｜bicycle｜[agent]｜Li_San｜[diminutive]｜squat｜at｜door｜brush｜teeth｜VERB｜NOUN｜PART｜PROPN｜PART｜VERB｜ADP｜NOUN｜VERB｜NOUN｜修自行车的李三蹲在门口刷牙｜"李三儿"=儿化音昵称
-Wav0023｜满嘴白沫子｜full｜mouth｜white｜foam｜ADJ｜NOUN｜ADJ｜NOUN｜满嘴白色泡沫｜"沫子"=口语词
-Wav0024｜"劳您惦记，不急，等天儿好的。"佟老爷子笑眯眯地应着，脚步没停"｜trouble｜you｜remember｜not｜urgent｜wait｜weather｜good｜Grandpa_Tong｜smile｜[manner]｜respond｜footstep｜not｜stop｜VERB｜PRON｜VERB｜PART｜ADJ｜VERB｜NOUN｜ADJ｜PROPN｜VERB｜PART｜VERB｜NOUN｜PART｜VERB｜"谢谢您关心，不急，等天气好的。"佟老爷子笑着回应，脚步没停｜"劳"=礼貌用语，"天儿"=天气
-Wav0025｜胡同里飘着炸油条的香味儿｜hutong｜inside｜float｜fry｜fried_dough｜[possessive]｜fragrance	NOUN｜PART｜VERB｜VERB｜NOUN｜PART｜NOUN｜胡同里飘着炸油条的香味｜"香味儿"=儿化音
-Wav0026｜这是老北京胡同特有的气息｜this｜be｜old｜Beijing｜hutong｜unique｜[possessive]｜smell｜DET｜VERB｜ADJ｜PROPN｜NOUN｜ADJ｜PART｜NOUN｜这是老北京胡同特有的气息｜"老北京"=传统北京文化
-Wav0027｜佟老爷子深吸一口气，觉得浑身舒坦。他在这胡同住了六十年，闭着眼都能摸回家｜Grandpa_Tong｜deep｜breathe｜one｜breath｜feel｜whole_body｜comfortable｜he｜at｜this｜hutong｜live｜sixty｜year｜close｜eye｜[ability]｜find｜way_home｜PROPN｜ADV｜VERB｜NUM｜NOUN｜VERB｜NOUN｜ADJ｜PRON｜ADP｜DET｜NOUN｜VERB｜NUM｜NOUN｜VERB｜NOUN｜PART｜VERB｜NOUN｜佟老爷子深吸一口气，感到全身舒畅。他在这胡同住了六十年，闭着眼睛都能找到家｜"摸回家"=北京话熟语
-Wav0028｜转过弯儿，佟老爷子突然停住了脚。他那院门儿口停着辆搬家公司的卡车，几个小伙子正往下搬家具｜turn｜corner｜[diminutive]｜Grandpa_Tong｜suddenly｜stop｜foot｜his｜that｜courtyard｜gate｜[diminutive]｜front｜park｜[measure]｜moving｜company｜[possessive]｜truck｜several｜young｜man｜now｜move｜down｜furniture｜VERB｜NOUN｜PART｜PROPN｜ADV｜VERB｜NOUN｜PRON｜DET｜NOUN｜NOUN｜PART｜NOUN｜VERB｜PART｜NOUN｜NOUN｜PART｜NOUN｜ADJ｜ADJ｜NOUN｜ADV｜VERB｜ADV｜NOUN｜转过拐角，佟老爷子突然停下脚步。他的院门口停着一辆搬家公司的卡车，几个年轻人正在搬家具｜"弯儿"=儿化音，"院门儿口"=门口区域
-Wav0029｜"这是..."佟老爷子眯起老花眼｜this｜be｜Grandpa_Tong｜squint｜presbyopic｜eye｜DET｜VERB｜PROPN｜VERB｜ADJ｜NOUN｜"这是..."佟老爷子眯起老花眼｜省略号保留原文语气
-Wav0030｜"老爷子，您回来啦！"房东老陈从院里钻出来｜grandpa｜you｜return｜[exclamation]｜landlord｜Old_Chen｜from｜courtyard｜inside｜come_out｜NOUN｜PRON｜VERB｜PART｜NOUN｜PROPN｜ADP｜NOUN｜NOUN｜VERB	"老爷子，您回来了！"房东老陈从院里跑出来｜"钻"=快速移动
-Wav0031｜一脸讨好地笑，"跟您说个事儿，西厢房我租出去了，今儿个新租户搬来。｜one｜face｜ingratiating｜[manner]｜smile｜tell｜you｜say｜[measure]｜thing｜west｜wing｜room｜I｜rent｜out｜[perfective]｜today｜new｜tenant｜move｜come	｜NUM｜NOUN｜ADJ｜PART｜NOUN｜VERB｜PRON｜VERB｜PART｜NOUN｜ADJ｜NOUN｜NOUN｜PRON｜VERB｜ADV｜PART｜NOUN｜ADJ｜NOUN｜VERB｜VERB｜满脸堆笑地说："跟您说件事，西厢房我租出去了，今天新租户搬来。"｜"今儿个"=今天，"事儿"=儿化音
-Wav0032｜佟老爷子心里"咯噔"一下。西厢房空了有小半年了，他图个清静，没想到突然就搬来人｜Grandpa_Tong｜heart｜inside｜[onomatopoeia]｜once｜west｜wing｜room｜empty｜[continuative]｜have｜half｜year｜[continuative]｜he｜seek｜[measure]｜quiet｜not｜expect｜suddenly｜then｜move｜in｜people｜PROPN｜NOUN｜NOUN｜PART｜ADV｜ADJ｜NOUN｜NOUN｜ADJ｜PART｜VERB｜ADJ｜NOUN｜PART｜PRON｜VERB｜PART｜ADJ｜PART｜VERB｜ADV｜ADV｜VERB｜ADP｜NOUN｜佟老爷子心里"咯噔"一声。西厢房空了快半年了，他本想图个安静，没想到突然有人搬来｜拟声词保留
-Wav0033｜"嘛不提前言语一声？"佟老爷子有点不乐意｜why｜not｜in_advance｜say｜one｜[measure]｜word｜Grandpa_Tong｜have｜a_bit｜not｜happy｜ADV｜PART｜ADV｜VERB｜NUM｜PART｜NOUN｜PROPN｜VERB｜DET｜PART｜ADJ	"为什么不提前说一声？"佟老爷子有些不高兴｜"嘛"=为什么，"言语"=说
-Wav0034｜"哎哟喂，我这不忙忘了嘛。"老陈搓着手，"人家是正经公司白领，小两口带个闺女，素质高着呢，保准不吵您。｜[exclamation]｜I｜this｜not｜busy｜forget｜[particle]｜Old_Chen｜rub｜hand｜they｜be｜proper｜company｜white_collar｜young｜couple｜with｜daughter｜quality｜high｜[intensifier]｜guarantee｜not｜bother｜you｜PART｜PRON｜DET｜PART｜ADJ｜VERB｜PART｜PROPN｜VERB｜NOUN｜PRON｜VERB｜ADJ｜NOUN｜NOUN｜ADJ｜NOUN｜ADP｜NOUN｜NOUN｜ADJ｜PART｜VERB｜PART｜VERB｜PRON｜"哎呀，我这不是忙忘了嘛。"老陈搓着手，"对方是正规公司的白领，年轻夫妇带个女儿，素质很高，肯定不会打扰您。"｜"哎哟喂"=感叹词，"小两口"=年轻夫妻
-Wav0035｜正说着，一个穿米色风衣的年轻女人从院里走出来，手里还拎着个名牌包，高跟鞋在石板路上踩得咔咔响｜just｜say｜[continuative]｜one｜wear｜beige｜trench_coat｜[measure]｜young｜woman｜from｜courtyard｜inside｜walk｜out｜hand｜[location]｜still｜carry｜[measure]｜designer｜bag｜high_heel｜shoe｜at｜stone｜road｜[location]｜step｜[onomatopoeia]｜ADV｜VERB｜PART｜NUM｜VERB｜ADJ｜NOUN｜PART｜ADJ｜NOUN｜ADP｜NOUN｜NOUN｜VERB｜ADV｜NOUN｜PART｜ADV｜VERB｜PART｜NOUN｜NOUN｜ADJ｜NOUN｜ADP｜NOUN｜NOUN｜PART｜VERB｜PART｜正说着，一个穿米色风衣的年轻女性从院里走出来，手里还提着名牌包，高跟鞋在石板路上咔咔作响。｜"咔咔"=拟声词
-Wav0036｜"陈先生，卫生间的水龙头有点漏水..."女人说到一半，看见佟老爷子，礼貌地点点头｜Mr_Chen｜bathroom｜[possessive]｜faucet｜a_bit｜leak｜water｜woman｜say｜halfway｜see｜Grandpa_Tong｜polite｜[manner]｜nod｜PROPN｜NOUN｜PART｜NOUN｜ADV｜VERB｜NOUN｜NOUN｜VERB｜NOUN｜VERB｜PROPN｜ADJ｜PART｜VERB｜"陈先生，卫生间的水龙头有点漏水..."女性说到一半，看到佟老爷子后礼貌点头｜敬语"先生"保留
-Wav0037｜"这位是？"｜this｜[measure]｜person｜be	PRON｜PART｜NOUN｜VERB｜"这位是？"｜"位"=敬语量词
-Wav0038｜"这是佟老爷子，住东厢房，是咱胡同的老住户了。"老陈赶紧介绍｜this｜be｜Grandpa_Tong｜live｜east｜wing｜room｜be｜our｜hutong｜[possessive]｜old｜resident｜[perfective]｜Old_Chen｜hurriedly｜introduce｜DET｜VERB｜PROPN｜VERB｜ADJ｜NOUN｜NOUN｜VERB｜PRON｜NOUN｜PART｜ADJ｜NOUN｜PART｜PROPN｜ADV｜VERB｜"这位是佟老爷子，住在东厢房，是我们胡同的老住户了。"老陈连忙介绍｜"咱"=我们的（北方方言）
-Wav0039｜"老爷子，这是周雅周女士，新租户。｜"grandpa｜this｜be｜Zhou_Ya｜Ms_Zhou｜new｜tenant	NOUN｜DET｜VERB｜PROPN｜PROPN｜ADJ｜NOUN｜"老爷子，这位是周雅女士，新租户。"｜双称谓结构
-Wav0040｜周雅伸出手："佟叔叔好。"｜Zhou_Ya｜extend｜hand｜Uncle_Tong｜hello｜PROPN｜VERB｜NOUN｜PROPN｜INTJ｜周雅伸出手："佟叔叔好。"｜"叔叔"=礼貌称谓
-Wav0041｜佟老爷子没握，只是点点头："叫佟爷就成，胡同里都这么叫。｜Grandpa_Tong｜not｜shake｜just｜nod｜head｜call｜Grandpa_Tong｜[suffice]｜hutong｜inside｜all｜so｜call｜PROPN｜PART｜VERB｜ADV｜VERB｜NOUN｜VERB｜PROPN｜PART｜NOUN｜NOUN｜ADV｜ADV｜VERB	佟老爷子没有握手，只是点头："叫我佟爷就行，胡同里都这么称呼。｜"就成"=就可以（北京话）
-Wav0042｜周雅的手尴尬地停在半空，收了回去Zhou_Ya｜[possessive]｜hand｜awkward｜[manner]｜stop｜at｜midair｜withdraw｜[directional]｜PROPN｜PART｜NOUN｜ADJ｜PART｜VERB｜ADP｜NOUN｜VERB｜PART｜周雅的手尴尬地悬在空中，收了回去｜"半空"=空间位置标记
-Wav0043｜老陈赶紧打圆场："佟爷是老北京，讲究多，您别介意。｜Old_Chen｜hurriedly｜mediate｜Grandpa_Tong｜be｜old｜Beijing｜custom｜many｜you｜not｜mind｜PROPN｜ADV｜VERB｜PROPN｜VERB｜ADJ｜PROPN｜NOUN｜ADJ｜PRON｜PART｜VERB｜老陈连忙调解："佟爷是老北京人，规矩多，请您别介意。"｜"打圆场"=调解矛盾
-Wav0044｜"卫生间那水龙头我看看去。"老陈说着就往院里钻｜bathroom｜that｜faucet｜I｜look｜[directional]｜Old_Chen｜say｜[continuative]｜then｜toward｜courtyard｜inside｜dash	NOUN｜DET｜NOUN｜PRON｜VERB｜PART｜PROPN｜VERB｜PART｜ADV｜ADP｜NOUN｜NOUN｜VERB｜"我去看看卫生间那个水龙头。｜老陈说着就快步走进院子｜"看看去"=去看看（北方方言）
-Wav0045｜周雅看了看四周，眉头微皱｜Zhou_Ya｜look｜around｜eyebrow｜slightly｜frown｜PROPN｜VERB｜ADV｜NOUN｜ADV｜VERB	周雅环顾四周，微微皱眉｜肢体语言描写
-Wav0046｜"陈先生，这胡同里...没有独立卫生间吗？｜"Mr_Chen｜this｜hutong｜inside｜not｜have｜private｜bathroom｜[Q]｜PROPN｜DET｜NOUN｜NOUN｜PART｜VERB｜ADJ｜NOUN｜PART｜"陈先生，这胡同里...没有独立卫生间吗？"｜省略号保留犹豫语气
-Wav0047｜佟老爷子一听这话，心里就不痛快了｜Grandpa_Tong｜once｜hear｜this｜word｜heart｜inside｜then｜not｜happy	PROPN｜ADV｜VERB｜DET｜NOUN｜NOUN｜NOUN｜ADV｜PART｜ADJ｜佟老爷子听到这话，心里就不舒服了｜"不痛快"=不高兴（含蓄表达）
-Wav0048｜"姑娘，咱这是老北京胡同，不是您那高楼大厦｜girl｜we｜this｜be｜old｜Beijing｜hutong｜not｜be｜you｜that｜high-rise｜building｜NOUN｜PRON｜DET｜VERB｜ADJ｜PROPN｜NOUN｜PART｜VERB｜PRON｜DET｜NOUN｜NOUN｜"姑娘，我们这是老北京胡同，不是您住的那种高楼｜"咱"=我们
-Wav0049｜公厕在前头五十米，洗澡得上澡堂子。"｜public｜toilet｜at｜front｜fifty｜meter｜bathe｜must｜go｜bathhouse｜ADJ｜NOUN｜ADP｜NOUN｜NUM｜NOUN｜VERB｜AUX｜VERB｜NOUN	｜"公共厕所在前面五十米，洗澡要去澡堂。"｜"得"=要
-Wav0050｜周雅脸色变了："什么？我付的租金可不低，连独立卫生间都没有？｜Zhou_Ya｜face｜color｜change｜what｜I｜pay｜[possessive]｜rent｜[emphasis]｜not｜low｜even｜private｜bathroom｜not｜have｜[Q]｜PROPN｜NOUN｜NOUN｜VERB｜INTJ｜PRON｜VERB｜PART｜NOUN｜PART｜PART｜ADJ｜ADV｜ADJ｜NOUN｜PART｜VERB｜PART｜周雅脸色变了："什么？我付的租金不便宜，竟然没有独立卫生间？"｜"可"=强调语气
-Wav0051｜老陈赶紧跑回来："周女士，看房时候我跟您说了这是胡同平房..."｜Old_Chen｜hurriedly｜run｜back｜Ms_Zhou｜view｜house｜time｜I｜to｜you｜say｜[perfective]｜this｜be｜hutong｜courtyard_house｜PROPN｜ADV｜VERB｜ADV｜PROPN｜VERB｜NOUN｜NOUN｜PRON｜ADP｜PRON｜VERB｜PART｜DET｜VERB｜NOUN｜NOUN｜老陈急忙跑回来："周女士，看房时我告诉过您这是胡同平房..."｜"四合院"文化概念
-Wav0052｜"您可没说要用公共厕所！"周雅声音提高了八度，"我女儿才五岁，晚上起夜怎么办？｜"you｜[emphasis]｜not｜say｜need｜use｜public｜toilet｜Zhou_Ya｜voice｜raise｜eight｜degree｜my｜daughter｜only｜five｜year｜night｜get_up｜[Q]｜PRON｜PART｜PART｜VERB｜VERB｜VERB｜ADJ｜NOUN｜PROPN｜NOUN｜VERB｜NUM｜NOUN｜PRON｜NOUN｜ADV｜NUM｜NOUN｜NOUN｜VERB｜PART｜"您可没说过要用公共厕所！"周雅提高嗓门，"我女儿才五岁，晚上上厕所怎么办？"｜"八度"=夸张表达
-Wav0053｜胡同里几个邻居已经探头探脑往这边瞅了｜hutong｜inside｜several｜neighbor｜already｜peek｜[manner]｜toward｜here｜look｜[perfective]｜NOUN｜PART｜ADJ｜NOUN｜ADV｜VERB｜PART｜ADP｜ADV｜VERB｜PART｜胡同里几个邻居已经探头往这边看了｜"探头探脑"=好奇张望
-Wav0054｜卖煎饼的张婶假装整理摊位，实际上耳朵竖得老高｜sell｜jianbing｜[agent]｜Aunt_Zhang｜pretend｜tidy｜stall｜actually｜ear｜erect｜[intensifier]｜high｜VERB｜NOUN｜PART｜PROPN｜VERB｜VERB｜NOUN｜ADV｜NOUN｜VERB｜PART｜ADJ	卖煎饼的张婶假装收拾摊位，其实竖着耳朵听｜"老高"=非常（北京话程度副词）
-Wav0055｜佟老爷子冷哼一声："我们胡同孩子都是这么长大的，没见谁掉茅坑里。"｜Grandpa_Tong｜cold｜hum｜[manner]｜we｜hutong｜child｜all｜so｜grow_up｜[perfective]｜not｜see｜who｜fall｜latrine｜inside｜PROPN｜ADJ｜VERB｜PART｜PRON｜NOUN｜NOUN｜ADV｜ADV｜VERB｜PART｜PART｜VERB｜PRON｜VERB｜NOUN｜PART｜佟老爷子冷笑说："我们胡同的孩子都这样长大，没人掉进茅坑。"｜"茅坑"=传统旱厕
-Wav0056｜"您这叫什么话！"周雅气得脸通红，"这是基本生活条件！"｜you｜this｜call｜what｜word｜Zhou_Ya｜angry｜face｜red｜this｜be｜basic｜living｜condition｜PRON｜DET｜VERB｜PRON｜NOUN｜PROPN｜ADJ｜NOUN｜ADJ｜DET｜VERB｜ADJ｜NOUN｜NOUN｜"您这是什么话！"周雅气得脸红，"这是基本生活条件！"｜"叫话"=表达方式
-Wav0057｜"嫌条件差别住这儿啊！"佟老爷子也来气了，"好好的四合院，非改成什么LOFT，你们这些年轻人..."｜dislike｜condition｜poor｜then｜live｜here｜[Q]｜Grandpa_Tong｜also｜get_angry｜good｜[reduplication]｜courtyard_house｜must｜change｜into｜what｜LOFT｜you｜these｜young｜people｜VERB｜NOUN｜ADJ｜ADV｜VERB｜ADV｜PART｜PROPN｜ADV｜VERB｜ADJ｜PART｜NOUN｜AUX｜VERB｜ADP｜PRON｜NOUN｜PRON｜DET｜ADJ｜NOUN｜"嫌条件差就别住这儿！"佟老爷子也生气了，"好好的四合院，非要改成LOFT，你们年轻人..."｜"非...不可"=固执坚持
-Wav0058｜"佟爷！佟爷！消消气儿！"老陈急得直跺脚｜Grandpa_Tong｜[vocative]｜calm_down｜[diminutive]｜Old_Chen｜anxious｜[manner]｜stamp｜foot｜PROPN｜PART｜VERB｜PART｜PROPN｜ADJ｜PART｜VERB｜NOUN｜"佟爷！别生气了！"老陈着急地跺脚	重复称呼表急切
-Wav0059｜"周女士，要不这样，我在院里给您单独装个马桶，成不？"｜Ms_Zhou｜how_about｜this｜I｜at｜courtyard｜inside｜for｜you｜alone｜install｜[measure]｜toilet｜[suggestion_Q]｜PROPN｜ADV｜DET｜PRON｜ADP｜NOUN｜PART｜ADP｜PRON｜ADV｜VERB｜PART｜NOUN｜PART｜"周女士，要不这样，我在院里给您单独装个马桶，行吗？"｜"成不"=可以吗（商量语气）
-Wav0060｜周雅深吸一口气：｜Zhou_Ya｜deep｜inhale｜one｜breath	PROPN｜ADV｜VERB｜NUM｜NOUN｜周雅深深吸气：｜肢体语言描写
-Wav0061｜"我今天还要上班，这事晚上再说。"说完转身进院里头，高跟鞋踩得石板路噔噔响｜I｜today｜still｜need｜work｜this｜matter｜night｜[future]｜discuss｜finish｜speak｜turn｜body｜enter｜courtyard｜inside｜high_heel｜shoe｜step｜stone｜road｜[onomatopoeia]｜PRON｜NOUN｜ADV｜VERB｜VERB｜DET｜NOUN｜NOUN｜PART｜VERB｜VERB｜VERB｜VERB｜NOUN｜VERB｜NOUN｜PART｜NOUN｜NOUN｜VERB｜NOUN｜NOUN｜PART｜"我今天还要上班，这事晚上再谈。"说完转身走进院子，高跟鞋踩得石板路噔噔响｜"再说"=延迟处理
-Wav0062｜佟老爷子冲着她的背影嘟囔着："穿这么高的跟儿，也不怕崴自个儿脚脖子！｜"Grandpa_Tong｜toward｜her｜back｜mutter｜[manner]｜wear｜so｜high｜[possessive]｜heel｜not｜afraid｜sprain｜self｜[diminutive]｜ankle｜PROPN｜ADP｜PRON｜NOUN｜VERB｜PART｜VERB｜ADV｜ADJ｜PART｜NOUN｜PART｜ADJ｜VERB｜PRON｜PART｜NOUN｜佟老爷子对着她的背影嘀咕："穿这么高的鞋跟，不怕扭伤脚踝吗？"｜"脚脖子"=脚踝（方言）
-Wav0063｜"哎哟我的佟爷诶，您少说两句吧。"[exclamation]｜my｜Grandpa_Tong｜[vocative]｜you｜few｜say｜[measure]｜word｜[particle]｜PART｜PRON｜PROPN｜PART｜PRON｜ADJ｜VERB｜PART｜NOUN｜PART	"哎呀佟爷啊，您少说两句吧。"｜"诶"=语气词（缓和语气）
-Wav0064｜老陈愁眉苦脸，"这房租可不便宜，跑了租客我喝西北风去啊？｜Old_Chen｜worried｜expression｜this｜house｜rent｜[emphasis]｜not｜cheap｜lose｜tenant｜I｜drink｜northwest｜wind｜[Q]｜PROPN｜ADJ｜NOUN｜DET｜NOUN｜NOUN｜PART｜PART｜ADJ｜VERB｜NOUN｜PRON｜VERB｜NOUN｜NOUN｜PART｜老陈一脸愁容："这房租不便宜，租客走了我怎么办？"｜"喝西北风"=没收入（俚语）
-Wav0065｜佟老爷子撇撇嘴，背着手往院里走｜Grandpa_Tong｜pursed｜mouth｜[manner]｜back｜[possessive]｜hand｜toward｜courtyard｜inside｜walk｜PROPN｜VERB｜NOUN｜PART｜NOUN｜PART｜NOUN｜ADP｜NOUN｜NOUN｜VERB｜佟老爷子撇了撇嘴，双手背在身后往院里走｜肢体语言描写
-Wav0066｜路过西厢房时，看见个小姑娘坐在行李箱上，约莫五六岁，扎着俩小辫儿，正啃手指头｜pass｜by｜west｜wing｜room｜[time]｜see｜[measure]｜girl｜sit｜suitcase｜[location]｜about｜five｜six｜year｜tie｜[measure]｜little｜braid｜[continuative]｜chew｜finger	VERB｜ADP｜ADJ｜NOUN｜NOUN｜PART｜VERB｜PART｜NOUN｜VERB｜NOUN｜PART｜ADV｜NUM｜NUM｜NOUN｜VERB｜PART｜ADJ｜NOUN｜PART｜VERB｜NOUN｜经过西厢房时，看见一个小女孩坐在行李箱上，大约五六岁，扎着两条小辫子，正在啃手指｜"约莫"=大约（口语）
-Wav0067｜"丫头，叫什么名儿？"佟老爷子停下脚步｜girl｜call｜what｜name｜[diminutive]｜Grandpa_Tong｜stop｜footstep｜NOUN｜VERB｜PRON｜NOUN｜PART｜PROPN｜VERB｜NOUN｜"小姑娘，你叫什么名字？"佟老爷子停下脚步｜"丫头"=对小女孩的昵称
-Wav0068｜小姑娘抬起头，大眼睛忽闪忽闪的："我叫小满，妈妈说我是小满那天生的。"｜little｜girl｜raise｜head｜big｜eye｜sparkle｜[manner]｜I｜call｜Xiao_Man｜mother｜say｜I｜be｜Xiao_Man｜that｜day｜born｜ADJ｜NOUN｜VERB｜NOUN｜ADJ｜NOUN｜VERB｜PART｜PRON｜VERB｜PROPN｜NOUN｜VERB｜PRON｜VERB｜PROPN｜DET｜NOUN｜VERB｜小女孩抬起头，眼睛亮晶晶的："我叫小满，妈妈说我是小满节气出生的。"｜"忽闪忽闪"=眨眼（拟态词）
-Wav0069｜佟老爷子脸色缓和下来："这名儿不错，二十四节气，有讲究。"｜	Grandpa_Tong｜face｜color｜soften｜[directional]｜this｜name｜[diminutive]｜good｜twenty-four｜solar_term｜have｜convention｜PROPN｜NOUN｜NOUN｜VERB｜PART｜DET｜NOUN｜PART｜ADJ｜NUM｜NOUN｜VERB｜NOUN｜佟老爷子表情缓和："这名字很好，二十四节气，很有意义。""讲究"=文化内涵
-Wav0069｜佟老爷子脸色缓和下来："这名儿不错，二十四节气，有讲究。"｜	Grandpa_Tong｜face｜color｜soften｜[directional]｜this｜name｜[diminutive]｜good｜twenty-four｜solar_term｜have｜convention｜PROPN｜NOUN｜NOUN｜VERB｜PART｜DET｜NOUN｜PART｜ADJ｜NUM｜NOUN｜VERB｜NOUN｜佟老爷子表情缓和："这名字很好，二十四节气，很有意义。｜"讲究"=文化内涵
-Wav0070｜他从兜里掏出块水果糖，"喏，大白兔，你们小孩儿都爱吃。"｜he｜from｜pocket｜inside｜take_out｜[measure]｜fruit｜candy｜[interjection]｜White_Rabbit｜you｜child｜[diminutive]｜all｜like｜eat｜PRON｜ADP｜NOUN｜NOUN｜VERB｜PART｜NOUN｜NOUN｜PART｜PROPN｜PRON｜NOUN｜PART｜ADV｜VERB｜VERB｜他从口袋里拿出一颗水果糖，"来，大白兔糖，小孩子都喜欢吃。"｜"喏"=递东西时的语气词
-Wav0071｜小满看看糖，又看看佟老爷子，没敢接｜Xiao_Man｜look｜candy｜again｜look｜Grandpa_Tong｜not｜dare｜take｜PROPN｜VERB｜NOUN｜ADV｜VERB｜PROPN｜PART｜VERB｜VERB｜小满看了看糖，又看了看佟老爷子，不敢接｜双重动作描写
-Wav0072｜这时周雅从屋里出来，见状立刻把小满拉过去｜this｜time｜Zhou_Ya｜from｜room｜inside｜come_out｜see｜situation｜immediately｜[directional]｜Xiao_Man｜pull｜[directional]｜DET｜NOUN｜PROPN｜ADP｜NOUN｜PART｜VERB｜VERB｜NOUN｜ADV｜PART｜PROPN｜VERB｜PART｜这时周雅从屋里出来，看到后立刻拉过小满｜"把"字句处理为[directional]
-Wav0073｜"不要随便拿陌生人给的东西！"｜not｜randomly｜take｜stranger｜give｜[possessive]｜thing｜PART｜ADV｜VERB｜NOUN｜VERB｜PART｜NOUN｜"不要随便接受陌生人给的东西！"｜教育用语
-Wav0074｜佟老爷子气得胡子都翘起来了："我怎么就陌生人了？我在这胡同住了一甲子！街坊邻居谁不知道我佟守业？"｜Grandpa_Tong｜angry｜[intensifier]｜mustache｜all｜rise_up｜[perfective]｜how｜I｜[emphasis]｜stranger｜I｜at｜this｜hutong｜live｜[perfective]｜sixty｜years｜neighbor｜who｜not｜know｜I｜Tong_Shouye｜PROPN｜ADJ｜PART｜NOUN｜ADV｜VERB｜PART｜ADV｜PRON｜PART｜NOUN｜PRON｜ADP｜DET｜NOUN｜VERB｜PART｜NUM｜NOUN｜NOUN｜PRON｜PART｜VERB｜PRON｜PROPN｜佟老爷子气得胡子翘起："我怎么是陌生人？我在这胡同住了六十年！街坊谁不认识我佟守业？"｜"一甲子"=60年（传统计时）
-Wav0075｜"妈，爷爷给糖..."小满小声说｜mom｜grandpa｜give｜candy｜Xiao_Man｜low｜voice｜say｜NOUN｜NOUN｜VERB｜NOUN｜PROPN｜ADJ｜NOUN｜VERB｜"妈妈，爷爷给我糖..."小满小声说｜省略宾语（我）
-Wav0076｜"说了不能要！"周雅严厉地说，然后对佟老爷子道｜say｜[perfective]｜not｜can｜take｜Zhou_Ya｜strict｜[manner]｜say｜then｜to｜Grandpa_Tong｜say｜VERB｜PART｜PART｜VERB｜VERB｜PROPN｜ADJ｜PART｜VERB｜ADV｜ADP｜PROPN｜VERB	"说了不能拿｜"周雅严厉地说，然后对佟老爷子说	｜
-Wav0077｜"不好意思，我们教育孩子不能随便接受陌生人的食物。"｜[sorry]｜we｜educate｜child｜not｜can｜randomly｜accept｜stranger｜[possessive]｜food｜PART｜PRON｜VERB｜NOUN｜PART｜VERB｜ADV｜VERB｜NOUN｜PART｜NOUN｜"抱歉，我们教孩子不能随便拿陌生人的食物。"｜委婉拒绝
-Wav0078｜佟老爷子把糖塞回兜里，冷笑一声："行，您教育得好。往后咱井水不犯河水。"｜Grandpa_Tong｜[disposal]｜candy｜stuff｜back｜pocket｜inside｜cold｜laugh｜one｜sound｜okay｜you｜educate｜[intensifier]｜from_now_on｜we｜well_water｜not｜violate｜river_water｜PROPN｜PART｜NOUN｜VERB｜ADV｜NOUN｜PART｜ADJ｜VERB｜NUM｜NOUN｜INTJ｜PRON｜VERB｜PART｜ADV｜PRON｜NOUN｜PART｜VERB｜NOUN｜佟老爷子把糖塞回口袋，冷笑道："好，您教得好。以后我们互不干涉。"｜成语直译+意译
-Wav0079｜说完大步走向东厢房，把门摔得山响｜finish｜speak｜big｜step｜walk｜toward｜east｜wing｜room｜[disposal]｜door｜slam｜[intensifier]｜loud	｜VERB｜VERB｜ADJ｜NOUN｜VERB｜ADP｜ADJ｜NOUN｜NOUN｜PART｜NOUN｜VERB｜PART｜ADJ｜说完大步走向东厢房，重重地摔上门｜"山响"=夸张修辞
-Wav0080｜院里静了几秒，老陈尴尬地咳嗽一声｜courtyard｜inside｜quiet｜[perfective]｜several｜second｜Old_Chen｜awkward｜[manner]｜cough｜one｜sound｜NOUN｜PART｜ADJ｜PART｜ADJ｜NOUN｜PROPN｜ADJ｜PART｜VERB｜NUM｜NOUN｜院子里安静了几秒，老陈尴尬地咳了一声｜环境氛围描写
-Wav0081｜"周女士，佟爷人其实特别好，就是脾气倔了点..."｜Ms_Zhou｜Grandpa_Tong｜people｜actually｜very｜good｜just｜be｜temper｜stubborn｜a_bit｜PROPN｜PROPN｜NOUN｜ADV｜ADV｜ADJ｜ADV｜VERB｜NOUN｜ADJ｜DET｜"周女士，佟爷人其实很好，只是脾气有点倔..."｜委婉调解用语
-Wav0082｜周雅没说话，拉着小满进了西厢房｜Zhou_Ya｜not｜speak｜pull｜[continuative]｜Xiao_Man｜enter｜[perfective]｜west｜wing｜room｜PROPN｜PART｜VERB｜VERB｜PART｜PROPN｜VERB｜PART｜ADJ｜NOUN｜NOUN｜周雅沉默着，拉小满进入西厢房｜非语言行为
-Wav0083｜老陈站在院里，左看看右看看，最后叹了口气｜Old_Chen｜stand｜courtyard｜inside｜left｜look｜right｜look｜finally｜sigh｜one｜breath｜PROPN｜VERB｜NOUN｜PART｜NOUN｜VERB｜NOUN｜VERB｜ADV｜VERB｜NUM｜NOUN	老陈站在院中，左右张望，最后叹息｜肢体语言序列
-Wav0084｜掏出手机开始打电话联系装马桶的事｜take_out｜phone｜start｜make｜call｜contact｜install｜toilet｜[possessive]｜matter｜VERB｜NOUN｜VERB｜VERB｜NOUN｜VERB｜VERB｜NOUN｜PART｜NOUN｜拿出手机打电话联系安装马桶的事｜现代物品引入
-Wav0085｜东厢房里，佟老爷子坐在藤椅上生闷气｜east｜wing｜room｜inside｜Grandpa_Tong｜sit｜rattan｜chair｜[location]｜sulk｜ADJ｜NOUN｜NOUN｜PART｜PROPN｜VERB｜NOUN｜NOUN｜PART｜VERB｜东厢房内，佟老爷子坐在藤椅上生气｜传统家具标注
-Wav0086｜窗外传来搬家具的声响和小满偶尔的说话声｜window｜outside｜come｜move｜furniture｜[possessive]｜sound｜and｜Xiao_Man｜occasionally｜[possessive]｜speak｜sound｜NOUN｜PART｜VERB｜VERB｜NOUN｜PART｜NOUN｜CCONJ｜PROPN｜ADV｜PART｜VERB｜NOUN｜窗外传来搬家具的声音和小满偶尔的说话声	｜
-Wav0087｜他拿起桌上的老照片｜he｜take｜up｜table｜[location]｜old｜photo｜PRON｜VERB｜ADV｜NOUN｜PART｜ADJ｜NOUN｜他拿起桌上的旧照片｜
-Wav0088｜上面啊是二十年前的百花儿深处胡同儿｜above｜[particle]｜be｜twenty｜year｜ago｜[possessive]｜Baihua_Shenchu｜hutong｜[diminutive]｜ADV｜PART｜VERB｜NUM｜NOUN｜ADV｜PART｜PROPN｜NOUN｜PART｜"上面是二十年前的百花深处胡同"｜
-Wav0089｜街坊邻居聚在院儿里吃饭｜neighbor｜gather｜courtyard｜[diminutive]｜inside｜eat｜meal	NOUN｜VERB｜NOUN｜PART｜PART｜VERB｜NOUN｜邻居们在院里聚餐｜
-Wav0090｜孩子们在胡同里追跑打闹｜child｜[plural]｜at｜hutong｜inside｜chase｜run｜play	NOUN｜PART｜ADP｜NOUN｜PART｜VERB｜VERB｜VERB｜孩子们在胡同追逐玩耍｜
-Wav0091｜"都变喽..."佟老爷子喃喃自语｜all｜change｜[particle]｜Grandpa_Tong｜murmur｜self｜talk｜ADV｜VERB｜PART｜PROPN｜VERB｜PRON｜VERB｜"全变了..."佟老爷子低声自语｜方言语气词
-Wav0092｜"这北京城儿，越来越不认识喽..."｜this｜Beijing｜city｜[diminutive]｜more｜more｜not｜recognize｜[particle]｜DET｜PROPN｜NOUN｜PART｜ADV｜ADV｜PART｜VERB｜PART｜"这北京城，越来越陌生了..."｜
-Wav0093｜第二天一早，佟老爷子是被一阵尖叫声惊醒的｜the｜next｜day｜early｜morning｜Old Man Tong｜[passive]｜by｜a｜shrill｜cry｜[inchoative]｜wake｜DET｜ADJ｜NOUN｜ADJ｜NOUN｜PROPN｜PART｜ADP｜DET｜ADJ｜NOUN｜PART｜VERB｜第二天一早，佟老爷子是被一阵尖叫声惊醒的｜
-Wav0094｜"哎呀！老鼠！｜ah｜[exclamation]｜rat｜[exclamation]｜INTJ｜PART｜NOUN｜PART,"哎呀！老鼠！"｜
-Wav0095｜东厢房的窗户"砰"地被推开｜east｜wing｜room｜[possessive]｜window｜"bang"｜[adverbial]｜[passive]｜push｜open｜NOUN｜NOUN｜NOUN｜PART｜NOUN｜ADV｜PART｜PART｜VERB｜ADJ｜东厢房的窗户"砰"地被推开｜Old Man Tong｜squint｜[progressive]｜presbyopic｜eye｜toward｜outside｜look｜PROPN｜VERB｜PART｜ADJ｜NOUN｜ADP｜ADV｜VERB,佟老爷子眯着老花眼往外瞅｜
-Wav0096｜佟老爷子眯着老花眼往外瞅｜Grandpa_Tong｜squint｜presbyopic｜eye｜toward｜outside｜look｜PROPN｜VERB｜ADJ｜NOUN｜ADP｜ADV｜VERB｜佟老爷子眯着老花眼向外看｜视觉动作描写
-Wav0097｜周雅穿着睡衣，站在西厢房门口跳脚，手里还拿着个扫把｜Zhou_Ya｜wear｜pajamas｜stand｜west｜wing｜room｜door｜jump｜foot｜hand｜[location]｜still｜hold｜[measure]｜broom｜PROPN｜VERB｜NOUN｜VERB｜ADJ｜NOUN｜NOUN｜NOUN｜VERB｜NOUN｜NOUN｜PART｜ADV｜VERB｜PART｜NOUN｜周雅穿着睡衣在西厢房门口跺脚，手里拿着扫帚｜
-Wav0098｜"大清早的，嚷嚷什么..."佟老爷子嘟囔着披上衣服｜early｜morning｜[possessive]｜shout｜what｜Grandpa_Tong｜mutter｜[manner]｜put_on｜clothes｜ADJ｜NOUN｜PART｜VERB｜PRON｜PROPN｜VERB｜PART｜VERB｜NOUN｜"一大早的，吵什么..."佟老爷子边嘟囔边穿衣｜
-Wav0099｜院里已经热闹起来了。张婶端着碗豆浆站在月亮门那儿看热闹｜courtyard｜inside｜already｜lively｜[inchoative]｜Aunt_Zhang｜hold｜bowl｜soy_milk｜stand｜moon_gate｜there｜watch｜spectacle｜NOUN｜PART｜ADV｜ADJ｜PART｜PROPN｜VERB｜NOUN｜NOUN｜VERB｜NOUN｜ADV｜VERB｜NOUN｜院里已经热闹起来。张婶端着豆浆站在月亮门看热闹｜
-Wav0100｜李三儿叼着烟卷蹲在墙根儿底下笑｜Li_San｜[diminutive]｜hold_in_mouth｜cigarette｜squat｜wall｜base｜[diminutive]｜under｜laugh｜PROPN｜PART｜VERB｜NOUN｜VERB｜NOUN｜NOUN｜PART｜ADP｜VERB｜李三叼着烟蹲在墙根笑｜儿化音昵称
-Wav0101｜"哟，周女士，见着耗子啦？"张婶吸溜着豆浆问｜[interjection]｜Ms_Zhou｜see｜[perfective]｜rat｜[Q]｜Aunt_Zhang｜slurp｜soy_milk｜ask｜PART｜PROPN｜VERB｜PART｜NOUN｜PART｜PROPN｜VERB｜NOUN｜VERB｜"哟，周女士，见到老鼠了？"张婶喝着豆浆问｜"吸溜"拟声词
-Wav0102｜"这么老的房子怎么能没耗子呢。"李三儿吐着烟圈，"您拿扫把不管用，得养只猫。"｜so｜old｜house｜how｜can｜not｜have｜rat｜[Q]｜Li_San｜[diminutive]｜blow｜smoke｜ring｜you｜use｜broom｜not｜useful｜must｜keep｜[measure]｜cat｜ADV｜ADJ｜NOUN｜ADV｜VERB｜PART｜VERB｜NOUN｜PART｜PROPN｜PART｜VERB｜NOUN｜NOUN｜PRON｜VERB｜NOUN｜PART｜ADJ｜VERB｜VERB｜PART｜NOUN｜"这么旧的房子当然有老鼠。"李三吐着烟圈，"扫把没用，得养猫。"｜
-Wav0103｜周雅脸色发白："这...这太不卫生了！我女儿还小..."｜Zhou_Ya｜face｜color｜turn｜white｜this｜too｜not｜hygienic｜I｜daughter｜still｜small｜PROPN｜NOUN｜NOUN｜VERB｜ADJ｜DET｜ADV｜PART｜ADJ｜PRON｜NOUN｜ADV｜ADJ｜周雅脸色苍白："这...太不卫生了！我女儿还小..."	｜省略号表停顿
-Wav0104｜佟老爷子慢悠悠地踱到院里，背着手看了看墙角｜Grandpa_Tong｜slowly｜[manner]｜stroll｜to｜courtyard｜inside｜back｜[possessive]｜hand｜look｜corner｜	PROPN｜ADV｜PART｜VERB｜ADP｜NOUN｜PART｜NOUN｜PART｜NOUN｜VERB｜NOUN｜佟老爷子缓步走进院子，背手查看墙角｜
-Wav0105｜"昨儿个剩饭没收拾吧？耗子鼻子灵着呢。"｜yesterday｜leftover｜food｜not｜clean｜up｜[Q]｜rat｜nose｜sharp｜[intensifier]｜NOUN｜NOUN｜NOUN｜PART｜VERB｜ADV｜PART｜NOUN｜NOUN｜ADJ｜PART｜"昨天的剩饭没收拾吧？老鼠嗅觉很灵。"｜"灵着呢"强调句式
-Wav0106｜"我...我忘了倒垃圾..."周雅有些尴尬，"可是这也..."｜I｜forget｜take_out｜garbage｜Zhou_Ya｜somewhat｜awkward｜but｜this｜too｜PRON｜VERB｜VERB｜NOUN｜PROPN｜ADV｜ADJ｜CCONJ｜DET｜ADV｜"我忘记倒垃圾了..."周雅略显尴尬，"但这..."｜
-Wav0107｜"您呀，得记着把剩饭菜封严实了，垃圾不能过夜｜you｜[particle]｜should｜remember｜[disposal]｜leftover｜food｜seal｜tight｜[perfective]｜trash｜can_not｜overnight｜PRON｜PART｜AUX｜VERB｜PART｜NOUN｜NOUN｜VERB｜ADJ｜PART｜NOUN｜VERB｜NOUN｜您得记住把剩饭菜密封好，垃圾不能留过夜"｜呀=语气词；得=应该（北方方言）"
-Wav0108｜"张婶热心地说，"要不我给您只小猫崽子？我家大花刚下了一窝。"｜Aunt_Zhang｜warm-hearted｜[manner]｜say｜how_about｜I｜give｜you｜[measure]｜kitten｜my｜home｜Da_Hua｜just｜give_birth｜[perfective]｜one｜litter｜PROPN｜ADJ｜PART｜VERB｜ADV｜PRON｜VERB｜PRON｜PART｜NOUN｜PRON｜NOUN｜PROPN｜ADV｜VERB｜PART｜NUM｜NOUN｜"张婶热情地说，'要不我给您一只小猫？我家大花刚生了一窝。｜"猫崽子=幼猫（方言爱称）"
-Wav0109｜周雅连连摆手："不用了谢谢，我对猫毛过敏。"｜Zhou_Ya｜repeatedly｜wave｜hand｜no｜need｜[perfective]｜thanks｜I｜to｜cat｜hair｜allergic｜PROPN｜ADV｜VERB｜NOUN｜INTJ｜VERB｜PART｜NOUN｜PRON｜ADP｜NOUN｜NOUN｜ADJ｜"周雅不停摆手：'不用了谢谢，我对猫毛过敏。'"｜"连连=反复（动作重复）"
-Wav0110｜佟老爷子哼了一声，背着手往公厕方向走｜Grandpa_Tong｜snort｜[perfective]｜one｜sound｜[reciprocal]｜hand｜toward｜public_toilet｜direction｜walk｜PROPN｜VERB｜PART｜NUM｜NOUN｜PART｜NOUN｜ADP｜NOUN｜NOUN｜VERB｜"佟老爷子哼了一声，双手背后朝公厕走去"｜
-Wav0111｜这新来的娘们儿｜this｜new｜come｜[perfective]｜woman｜[diminutive]｜DET｜ADJ｜VERB｜PART｜NOUN｜PART｜"这个新来的女人"｜"娘们儿=女性（北方方言，含些许贬义）
-Wav0112｜事儿真够多的｜matter｜really｜enough｜[intensifier]｜many｜NOUN｜ADV｜ADV｜PART｜ADJ｜"事情真是多"｜"够多的=非常多（强调语气）"
-Wav0113｜公厕门口已经排起了队。早高峰时候都这样｜public_toilet｜entrance｜already｜line_up｜[perfective]｜queue｜morning｜peak｜time｜all｜like_this｜NOUN｜NOUN｜ADV｜VERB｜PART｜NOUN｜NOUN｜NOUN｜NOUN｜PRON｜VERB｜"公厕门前已经排起队。早高峰时都这样"｜
-Wav0114｜老街坊们一边排队一边唠嗑｜old｜neighbor｜[plural]｜while｜queue｜while｜chat｜ADJ｜NOUN｜PART｜ADV｜NOUN｜ADV｜VERB｜"老邻居们边排队边聊天"｜"唠嗑=闲聊（北方方言）
-Wav0115｜"佟爷，听说您那院儿搬来新住户啦？"卖菜的刘大妈问｜Grandpa_Tong｜[vocative]｜hear｜you｜that｜courtyard｜move_in｜new｜resident｜[Q]｜sell｜vegetable｜[occupation]｜Aunt_Liu｜ask｜PROPN｜PART｜VERB｜PRON｜DET｜NOUN｜VERB｜ADJ｜NOUN｜PART｜VERB｜NOUN｜PART｜PROPN｜VERB｜'佟爷，听说您院子搬来新住户了？'卖菜的刘大妈询问"｜"院儿=院子（儿化音）"
-Wav0116｜"嗯。"佟老爷子不爱多谈｜[affirmation]",PART,"｜'嗯。'佟老爷子不愿多说"｜"省略句"
-Wav0117｜"听说是公司白领？男人咋没见着？"｜hear｜say｜[passive]｜company｜office_worker｜[Q]｜man｜how｜not｜see｜[perfective]｜VERB｜VERB｜PART｜NOUN｜NOUN｜PART｜NOUN｜ADV｜PART｜VERB｜PART｜'听说是公司白领？怎么没见到男主人？'"｜"咋=怎么（方言）
-Wav0118｜"出差了吧。"佟老爷子应付着，心里也纳闷。搬来两天了，就没见着那家的男主人｜business_trip｜[perfective]｜[speculation]｜Grandpa_Tong｜respond｜[manner]｜heart｜inside｜also｜wonder｜move_in｜two｜day｜[perfective]｜just｜not｜see｜[perfective]｜that｜family｜[possessive]｜male｜host｜NOUN｜PART｜PART｜PROPN｜VERB｜PART｜NOUN｜NOUN｜ADV｜VERB｜VERB｜NUM｜NOUN｜PART｜ADV｜PART｜VERB｜PART｜DET｜NOUN｜PART｜ADJ｜NOUN｜'出差了吧。'佟老爷子敷衍道，心里也疑惑。搬来两天都没见到那家男主人｜"了吧=推测语气"
-Wav0119｜排到佟老爷子时，他刚要进去｜queue｜arrive｜Grandpa_Tong｜time｜he｜just｜about_to｜enter｜NOUN｜VERB｜PROPN｜NOUN｜PRON｜ADV｜AUX｜VERB｜"轮到佟老爷子时，他正要进去"｜"刚要=即将（时间副词）"
-Wav0120｜"后面传来急促的高跟鞋声"｜back｜from｜come｜urgent｜[possessive]｜high_heel｜sound,NOUN｜ADP｜VERB｜ADJ｜PART｜NOUN｜NOUN｜"身后传来急促的高跟鞋声"｜"传来=听觉感知动词"
-Wav0121｜"周雅拉着小满急匆匆赶来，脸色很难看"｜Zhou_Ya｜pull｜Xiao_Man｜hurriedly｜come｜face｜color｜very｜bad,PROPN｜VERB｜PROPN｜ADV｜VERB｜NOUN｜NOUN｜ADV｜ADJ｜"周雅拽着小满匆忙赶来，表情很糟糕"｜"脸色=面部表情（转喻用法）"
-Wav0122｜"能不能...让我们先用一下？孩子着急..."周雅咬着嘴唇问｜can｜not｜let｜us｜first｜use｜[attemptive]｜child｜urgent｜Zhou_Ya｜bite｜[progressive]｜lip｜ask｜VERB｜PART｜VERB｜PRON｜ADV｜VERB｜PART｜NOUN｜ADJ｜PROPN｜VERB｜PART｜NOUN｜VERB｜'能否...让我们先用一下？孩子很急...'周雅咬着嘴唇问"｜
-Wav0123｜排后面的大爷大妈们互相看看｜queue｜back｜[possessive]｜uncles｜aunts｜[plural]｜each_other｜look｜NOUN｜NOUN｜PART｜NOUN｜NOUN｜PART｜PRON｜VERB｜"排在后面的大爷大妈们相互对视"｜
-Wav0124｜按规矩，插队可是大忌，但是啊带孩子是例外｜according_to｜rule｜cut_in_line｜[emphasis]｜big｜taboo｜but｜[particle]｜with｜child｜[copula]｜exception｜ADP｜NOUN｜VERB｜PART｜ADJ｜NOUN｜CCONJ｜PART｜ADP｜NOUN｜VERB｜NOUN｜"按规定插队是大忌，但带孩子可以例外"｜"可是=强调语气（[emphasis]）"
-Wav0125｜佟老爷子侧身让了让："孩子先吧。"｜Grandpa_Tong｜sideways｜yield｜[delimitative]｜child｜first｜[particle]｜PROPN｜ADV｜VERB｜PART｜NOUN｜ADV｜PART｜"佟老爷子侧身让开：'让孩子先吧。'｜
-Wav0126｜周雅匆匆道谢，拉着小满进去了｜Zhou_Ya｜hurriedly｜thank｜pull｜[progressive]｜Xiao_Man｜enter｜[perfective]｜PROPN｜ADV｜VERB｜VERB｜PART｜PROPN｜VERB｜PART｜"周雅快速道谢，牵着小满进去了"｜
-Wav0127｜不一会儿，里面传来小满的哭声："妈妈，我怕..."｜not｜long｜inside｜from｜come｜Xiao_Man｜[possessive]｜cry｜mother｜I｜afraid｜PART｜ADJ｜NOUN｜ADP｜VERB｜PROPN｜PART｜NOUN｜NOUN｜PRON｜ADJ｜"很快，里面传出小满的哭声：'妈妈，我害怕...'｜
-Wav0128｜"忍一下，马上好！"周雅压着声音说｜endure｜[momentary]｜immediately｜fine｜Zhou_Ya｜lower｜[progressive]｜voice｜say｜VERB｜PART｜ADV｜ADJ｜PROPN｜VERB｜PART｜NOUN｜VERB｜'忍耐下，很快就好了！'周雅压低声音说"
-Wav0129｜外头排队的老街坊们憋着笑｜outside｜queue｜[possessive]｜old｜neighbors｜hold_back｜[progressive]｜laugh｜NOUN｜NOUN｜PART｜ADJ｜NOUN｜VERB｜PART｜VERB｜"外面排队的邻居们忍着笑"｜
-Wav0130｜佟老爷子摇了摇头，点了根烟等着｜Grandpa_Tong｜shake｜[perfective]｜head｜light｜[measure]｜cigarette｜wait｜PROPN｜VERB｜PART｜NOUN｜VERB｜PART｜NOUN｜VERB｜"佟老爷子摇摇头，点了支烟等候"｜
-Wav0131｜新来的就是新来的，连公厕都受不了，往后日子长着呢｜new｜come｜[perfective]｜[copula]｜new｜come｜[perfective]｜even｜public_toilet｜all｜not｜bear｜future｜days｜long｜[progressive]｜ADJ｜VERB｜PART｜VERB｜ADJ｜VERB｜PART｜ADV｜NOUN｜ADV｜PART｜VERB｜NOUN｜NOUN｜ADJ｜PART｜"新住户毕竟是新住户，连公厕都适应不了，以后日子还长"｜
-Wav0132｜周雅带着小满出来时，脸涨得通红｜Zhou_Ya｜with｜Xiao_Man｜come_out｜time｜face｜flush｜[resultative]｜very｜red｜PROPN｜ADP｜PROPN｜VERB｜NOUN｜NOUN｜VERB｜PART｜ADV｜ADJ｜"周雅领着小满出来时，脸红得厉害"｜
-Wav0133｜她低着头快步离开，连谢谢都没来得及说｜she｜lower｜[progressive]｜head｜quick｜step｜leave｜even｜thanks｜all｜not｜have_time｜say｜PRON｜VERB｜PART｜NOUN｜ADJ｜NOUN｜VERB｜ADV｜NOUN｜ADV｜PART｜VERB｜VERB｜"她低着头快速离开，连道谢都来不及"｜
-Wav0134｜"这娘们儿，不懂规矩。"卖早点的老王点评道｜this｜woman｜[diminutive]｜not｜understand｜rule｜sell｜breakfast｜[occupation]｜Old_Wang｜comment｜PRON｜NOUN｜PART｜PART｜VERB｜NOUN｜VERB｜NOUN｜PART｜PROPN｜VERB｜'这女人不懂规矩。'卖早餐的老王评价"
-Wav0135｜佟老爷子没搭腔，但心里也这么觉得｜Grandpa_Tong｜not｜respond｜but｜heart｜inside｜also｜so｜think｜PROPN｜PART｜VERB｜CCONJ｜NOUN｜NOUN｜ADV｜ADV｜VERB｜"佟老爷子没接话，但心里也这么认为"｜"搭腔=应答（方言）"
-Wav0136｜下午，佟老爷子在院儿里晒他那老物件儿——几个蛐蛐罐、一副象棋、还有几个小面人｜afternoon｜Grandpa_Tong｜at｜courtyard｜[diminutive]｜inside｜sun｜his｜old｜belongings｜[diminutive]｜several｜cricket｜jar｜one｜set｜chess｜and｜several｜small｜dough｜figurine｜NOUN｜PROPN｜ADP｜NOUN｜PART｜NOUN｜VERB｜PRON｜ADJ｜NOUN｜PART｜ADJ｜NOUN｜NOUN｜NUM｜NOUN｜NOUN｜CCONJ｜ADJ｜ADJ｜NOUN｜NOUN｜"下午，佟老爷子在院子里晾晒他的老物件——几个蛐蛐罐、一副象棋、还有几个面人"｜"院儿=儿化音；物件儿=带感情色彩的爱称"
-Wav0137｜这是他的习惯，每年开春都要把这些东西拿出来晒晒，去去霉气｜this｜[copula]｜his｜habit｜every｜year｜spring｜beginning｜all｜need｜[disposal]｜these｜thing｜take_out｜sun｜[delimitative]｜remove｜[delimitative]｜mold｜air｜PRON｜VERB｜PRON｜NOUN｜DET｜NOUN｜NOUN｜NOUN｜ADV｜VERB｜PART｜DET｜NOUN｜VERB｜VERB｜PART｜VERB｜PART｜NOUN｜NOUN｜"这是他的习惯，每年初春都要把这些东西拿出来晾晒，除霉味"｜去去=消除掉
-Wav0138｜"爷爷，这是什么呀？"｜grandpa｜this｜[copula]｜what｜[particle]｜NOUN｜PRON｜VERB｜PRON｜PART｜爷爷，这是什么？｜
-Wav0139｜佟老爷子回头，看见小满趴在月亮门边｜Grandpa_Tong｜turn｜head｜see｜Xiao_Man｜lie｜[progressive]｜moon｜gate｜side｜PROPN｜VERB｜NOUN｜VERB｜PROPN｜VERB｜PART｜NOUN｜NOUN｜NOUN｜"佟老爷子转头，看见小满趴在月亮门旁边"
-Wav0140｜只露出个小脑袋｜only｜reveal｜[measure]｜small｜head｜ADV｜VERB｜PART｜ADJ｜NOUN｜"只露出一个小脑袋"｜
-Wav0141｜"这叫面人儿。"佟老爷子拿起一个孙悟空造型的｜this｜call｜dough｜figurine｜[diminutive]｜Grandpa_Tong｜pick_up｜one｜[measure]｜Sun_Wukong｜shape｜[possessive]｜PRON｜VERB｜NOUN｜NOUN｜PART｜PROPN｜VERB｜NUM｜PART｜PROPN｜NOUN｜PART｜'这叫面人。'佟老爷子拿起一个孙悟空造型的"｜
-Wav0142｜小满怯生生地走近："真好看..."｜Xiao_Man｜timidly｜approach｜really｜good｜look｜PROPN｜ADV｜VERB｜ADV｜ADJ｜VERB｜"小满怯怯地靠近：'真漂亮...'"｜
-Wav0143｜"你妈呢？"｜your｜mother｜[particle]｜PRON｜NOUN｜PART｜'你妈妈呢？'｜
-Wav0144｜"在屋里工作。"小满撇撇嘴，"妈妈总工作，不陪我玩。"｜at｜room｜inside｜work｜Xiao_Man｜pout｜[delimitative]｜mouth｜mother｜always｜work｜not｜accompany｜me｜play｜ADP｜NOUN｜NOUN｜VERB｜PROPN｜VERB｜PART｜NOUN｜NOUN｜ADV｜VERB｜PART｜VERB｜PRON｜VERB｜'在房间工作。'小满撅着嘴，'妈妈总是工作，不陪我玩。'"｜
-Wav0145｜佟老爷子心里一软。｜Grandpa_Tong｜heart｜inside｜one｜soft｜PROPN｜NOUN｜NOUN｜NUM｜ADJ｜"佟老爷子心头一软。"｜"心软=心理变化瞬间体"
-Wav0146｜他记得自个儿孙女小时候也这样｜he｜remember｜self｜[diminutive]｜granddaughter｜small｜time｜also｜like_this｜PRON｜VERB｜PRON｜PART｜NOUN｜ADJ｜NOUN｜ADV｜VERB｜"他记得自己孙女小时候也这样"｜"自个儿=反身代词（方言）"
-Wav0147｜儿子儿媳忙，孩子就爱粘着他｜son｜daughter-in-law｜busy｜child｜then｜love｜cling｜[progressive]｜him｜NOUN｜NOUN｜ADJ｜NOUN｜ADV｜VERB｜VERB｜PART｜PRON｜"儿子儿媳忙，孩子就喜欢缠着他"｜
-Wav0148｜"会玩抓拐吗？"佟老爷子从兜里掏出几个羊拐骨｜can｜play｜knucklebones｜[Q]｜Grandpa_Tong｜from｜pocket｜inside｜take_out｜several｜sheep｜knuckle｜bone｜VERB｜VERB｜NOUN｜PART｜PROPN｜ADP｜NOUN｜NOUN｜VERB｜ADJ｜NOUN｜NOUN｜NOUN｜'会玩抓拐吗？'佟老爷子从口袋里掏出几块羊拐骨"｜"抓拐=传统游戏（方言词）"
-Wav0149｜小满摇摇头，眼睛却亮了起来｜Xiao_Man｜shake｜[delimitative]｜head｜eye｜but｜bright｜[inchoative]｜PROPN｜VERB｜PART｜NOUN｜NOUN｜CCONJ｜ADJ｜PART｜"小满摇摇头，眼睛却亮起来"｜"亮起来=起始体变化"
-Wav0150｜"看着啊。"佟老爷子把拐骨撒在地上，灵巧地抓起一个，抛向空中｜watch｜[particle]｜Grandpa_Tong｜[disposal]｜knucklebone｜scatter｜at｜ground｜on｜nimble｜[manner]｜grab｜one｜throw｜toward｜sky｜VERB｜PART｜PROPN｜PART｜NOUN｜VERB｜ADP｜NOUN｜PART｜ADJ｜PART｜VERB｜NUM｜VERB｜ADP｜NOUN｜'看着。'佟老爷子将拐骨撒在地上，灵活地抓起一个抛向空中"｜
-Wav0151｜在它落下前迅速抓起地上的另一个，"这叫抓拐，我们小时候都玩这个。"｜before｜it｜fall｜quickly｜grab｜ground｜on｜[possessive]｜another｜this｜call｜knucklebones｜we｜small｜time｜all｜play｜this｜ADP｜PRON｜VERB｜ADV｜VERB｜NOUN｜PART｜PART｜PRON｜PRON｜VERB｜NOUN｜PRON｜ADJ｜NOUN｜ADV｜VERB｜PRON｜"在它落地前快速抓起另一个，'这叫抓拐，我们小时候都玩这个｜
-Wav0152｜小满拍着手："爷爷真厉害！"｜Xiao_Man｜clap｜[progressive]｜hand｜grandpa｜really｜amazing,PROPN｜VERB｜PART｜NOUN｜NOUN｜ADV｜ADJ｜"小满拍着手：'爷爷真棒！'｜
-Wav0153｜"来，试试。"｜come｜try｜VERB｜VER｜'来，试一试。｜
-Wav0154｜小满学着佟老爷子的样子抛拐骨，却总是抓不住｜Xiao_Man｜imitate｜Grandpa_Tong｜[possessive]｜manner｜throw｜knucklebone｜but｜always｜not｜catch｜PROPN｜VERB｜PROPN｜PART｜NOUN｜VERB｜NOUN｜CCONJ｜ADV｜PART｜VERB｜"小满模仿佟老爷子的动作抛拐骨，却总接不住"｜
-Wav0155｜佟老爷子也不急，一遍遍教她｜Grandpa_Tong｜also｜not｜impatient｜one｜time｜time｜teach｜her｜PROPN｜ADV｜PART｜ADJ｜NUM｜NOUN｜NOUN｜VERB｜PRON｜"佟老爷子也不着急，一次次教她"｜
-Wav0156｜不知不觉，太阳西斜了｜unconsciously｜sun｜west｜slant｜[perfective]｜ADV｜NOUN｜NOUN｜VERB｜PART｜"不知不觉间，太阳西沉了"｜
-Wav0157｜"小满！小满！"周雅焦急的声音从西厢房传来｜Xiao_Man｜Zhou_Ya｜anxious｜[possessive]｜voice｜from｜west｜wing｜room｜come｜PROPN｜PROPN｜ADJ｜PART｜NOUN｜ADP｜NOUN｜NOUN｜NOUN｜VERB｜'小满！小满！'周雅着急的声音从西厢房传来"｜
-Wav0158｜小满吓得一哆嗦，羊拐骨掉了一地｜Xiao_Man｜frightened｜[resultative]｜one｜shiver｜sheep｜knuckle｜bone｜fall｜[perfective]｜one｜ground｜PROPN｜ADJ｜PART｜NUM｜VERB｜NOUN｜NOUN｜NOUN｜VERB｜PART｜NUM｜NOUN｜"小满被吓得一抖，羊拐骨散落满地"｜
-Wav0159｜"妈..."｜mother｜NOUN｜'妈妈...'"｜
-Wav0160｜周雅冲进院子，看见小满和佟老爷子在一起，脸色立刻变了："你怎么跑这儿来了？｜Zhou_Ya｜rush｜into｜courtyard｜see｜Xiao_Man｜and｜Grandpa_Tong｜at｜together｜face｜color｜immediately｜change｜[perfective]｜you｜how｜run｜here｜come｜[perfective]｜PROPN｜VERB｜ADP｜NOUN｜VERB｜PROPN｜CCONJ｜PROPN｜ADP｜ADV｜NOUN｜NOUN｜ADV｜VERB｜PART｜PRON｜ADV｜VERB｜ADV｜VERB｜PART｜"周雅跑进院子，看到小满和佟老爷子在一起，脸色骤变：'你怎么到这儿来了？"｜
-Wav0161｜妈妈不是告诉过你别乱跑吗？"｜mother｜[copula]｜not｜tell｜[experiential]｜you｜don't｜randomly｜run｜[Q]｜NOUN｜VERB｜PART｜VERB｜PART｜PRON｜PART｜ADV｜VERB｜PART｜"妈妈不是说过不要乱跑吗？"｜
-Wav0162｜"我...我看爷爷玩..."｜I｜watch｜grandpa｜play｜PRON｜VERB｜NOUN｜VERB｜'我...我在看爷爷玩...'"｜
-Wav0163｜周雅一把拉过小满｜Zhou_Ya｜one｜[measure]｜pull｜[perfective]｜Xiao_Man｜PROPN｜NUM｜PART｜VERB｜PART｜PROPN｜"周雅一把拽过小满｜
-Wav0164｜对佟老爷子僵硬地说｜to｜Grandpa_Tong｜stiff｜[manner]｜say｜ADP｜PROPN｜ADJ｜PART｜VERB｜"向佟老爷子生硬地说道"｜
-Wav0165｜"谢谢您看着孩子｜thank｜you｜watch｜[progressive]｜child｜VERB｜PRON｜VERB｜PART｜NOUN｜'谢谢您照看孩子"｜
-Wav0166｜但她以后不会来打扰您了。"｜but｜she｜future｜not｜will｜come｜bother｜you｜[perfective]｜CCONJ｜PRON｜NOUN｜PART｜AUX｜VERB｜VERB｜PRON｜PART｜"但她以后不会来打扰您了。｜
+wav_id｜dialect_text｜mandarin_text｜notes
+Wav0001｜今儿个｜今天｜儿化音"今儿"表时间
+Wav0002｜我就给在座的各位讲一个老北京胡同儿里的故事｜我要给在座的各位讲一个老北京胡同的故事｜"在座"为敬语，"胡同儿"儿化音省略
+Wav0003｜这个故事呢充满了地道的北京韵味｜这个故事充满了地道的北京韵味｜"呢"为话题标记
+Wav0004｜和邻里温情｜和邻里的温情｜省略"的"字结构
+Wav0005｜这个故事叫做百花深处｜这个故事名叫百花深处｜专有名词不翻译
+Wav0006｜佟老爷子背着手｜佟老爷子双手背在身后｜交互态标记
+Wav0007｜遛弯儿回来的时候｜散步回来的时候｜"遛弯儿"=北京话"散步"
+Wav0008｜正赶上早市收摊儿｜正好赶上早市结束营业｜"收摊儿"=结束营业
+Wav0009｜他穿一件洗得发白的蓝布褂子｜他穿着一件洗得发白的蓝布褂子｜"褂子"=中式上衣
+Wav0010｜脚上是那双穿了五年的千层底布鞋｜脚上穿着那双穿了五年的千层底布鞋｜"千层底"=传统手工布鞋
+Wav0011｜鞋帮子都磨出了毛边儿｜鞋帮已经磨出了毛边｜"鞋帮子"=鞋的侧面
+Wav0012｜"哟，佟爷，今儿个起得够早的啊！｜"哟，佟爷，今天起得真早啊！｜"今儿个"=今天，"够...的"=强调
+Wav0013｜卖豆汁儿的王胖子正收拾摊子，油光满面的脸上堆着笑｜卖豆汁的王胖子正在收拾摊子，油光满面的脸上堆着笑｜"豆汁儿"保留儿化音，"王胖子"为绰号
+Wav0014｜嗐，人老了觉少，五更天就醒。佟老爷子摆摆手｜唉，人老了睡眠少，天没亮就醒。佟老爷子摆摆手｜"嗐"=叹息声，"五更天"=凌晨3-5点
+Wav0015｜给我留一碗豆汁儿，俩焦圈儿，我回去拿碗来盛｜给我留一碗豆汁，两个焦圈，我回去拿碗来装｜"俩"=口语化数量词，"焦圈儿"=北京传统小吃
+Wav0016｜得嘞！给您留着最稠的那锅底儿！｜好的！给您留着最稠的锅底！｜"得嘞"=北京话应答语，"锅底儿"=最浓稠的部分
+Wav0017｜佟老爷子继续往胡同深处走｜"佟老爷子继续向胡同深处走去｜方位词"深处"作名词处理
+Wav0018｜百花深处这胡同名儿听着雅致｜百花深处这个胡同名字听起来很雅致｜专有名词不翻译，"名儿"=儿化音
+Wav0019｜实际上就是条两米来宽的窄道，两边是参差不齐的灰砖平房｜实际上就是一条两米左右宽的窄路，两边是高低不齐的灰砖平房｜"来"=约数词
+Wav0020｜电线杆子上挂着几件晾晒的衣裳，在晨风里轻轻晃荡｜电线杆上挂着几件晾晒的衣服，在晨风中轻轻摇晃｜"衣裳"=口语化用词
+Wav0021｜佟叔，您家房顶那瓦我瞅着有点松了，赶明儿我上去给您拾掇拾掇｜佟叔，您家房顶的瓦片我看着有点松了，明天我上去帮您修修｜"瞅"=看，"拾掇"=修理，"赶明儿"=明天
+Wav0022｜修自行车的李三儿蹲在门口刷牙｜修自行车的李三蹲在门口刷牙｜"李三儿"=儿化音昵称
+Wav0023｜满嘴白沫子｜满嘴白色泡沫｜"沫子"=口语词
+Wav0024｜"劳您惦记，不急，等天儿好的。"佟老爷子笑眯眯地应着，脚步没停"｜"谢谢您关心，不急，等天气好的。"佟老爷子笑着回应，脚步没停｜"劳"=礼貌用语，"天儿"=天气
+Wav0025｜胡同里飘着炸油条的香味儿｜胡同里飘着炸油条的香味｜"香味儿"=儿化音
+Wav0026｜这是老北京胡同特有的气息｜这是老北京胡同特有的气息｜"老北京"=传统北京文化
+Wav0027｜佟老爷子深吸一口气，觉得浑身舒坦。他在这胡同住了六十年，闭着眼都能摸回家｜佟老爷子深吸一口气，感到全身舒畅。他在这胡同住了六十年，闭着眼睛都能找到家｜"摸回家"=北京话熟语
+Wav0028｜转过弯儿，佟老爷子突然停住了脚。他那院门儿口停着辆搬家公司的卡车，几个小伙子正往下搬家具｜转过拐角，佟老爷子突然停下脚步。他的院门口停着一辆搬家公司的卡车，几个年轻人正在搬家具｜"弯儿"=儿化音，"院门儿口"=门口区域
+Wav0029｜"这是..."佟老爷子眯起老花眼｜"这是..."佟老爷子眯起老花眼｜省略号保留原文语气
+Wav0030｜"老爷子，您回来啦！"房东老陈从院里钻出来｜"老爷子，您回来了！"房东老陈从院里跑出来｜"钻"=快速移动
+Wav0031｜一脸讨好地笑，"跟您说个事儿，西厢房我租出去了，今儿个新租户搬来。｜满脸堆笑地说："跟您说件事，西厢房我租出去了，今天新租户搬来。"｜"今儿个"=今天，"事儿"=儿化音
+Wav0032｜佟老爷子心里"咯噔"一下。西厢房空了有小半年了，他图个清静，没想到突然就搬来人｜佟老爷子心里"咯噔"一声。西厢房空了快半年了，他本想图个安静，没想到突然有人搬来｜拟声词保留
+Wav0033｜"嘛不提前言语一声？"佟老爷子有点不乐意｜"为什么不提前说一声？"佟老爷子有些不高兴｜"嘛"=为什么，"言语"=说
+Wav0034｜"哎哟喂，我这不忙忘了嘛。"老陈搓着手，"人家是正经公司白领，小两口带个闺女，素质高着呢，保准不吵您。｜"哎呀，我这不是忙忘了嘛。"老陈搓着手，"对方是正规公司的白领，年轻夫妇带个女儿，素质很高，肯定不会打扰您。"｜"哎哟喂"=感叹词，"小两口"=年轻夫妻
+Wav0035｜正说着，一个穿米色风衣的年轻女人从院里走出来，手里还拎着个名牌包，高跟鞋在石板路上踩得咔咔响｜正说着，一个穿米色风衣的年轻女性从院里走出来，手里还提着名牌包，高跟鞋在石板路上咔咔作响。｜"咔咔"=拟声词
+Wav0036｜"陈先生，卫生间的水龙头有点漏水..."女人说到一半，看见佟老爷子，礼貌地点点头｜"陈先生，卫生间的水龙头有点漏水..."女性说到一半，看到佟老爷子后礼貌点头｜敬语"先生"保留
+Wav0037｜"这位是？"｜"这位是？"｜"位"=敬语量词
+Wav0038｜"这是佟老爷子，住东厢房，是咱胡同的老住户了。"老陈赶紧介绍｜"这位是佟老爷子，住在东厢房，是我们胡同的老住户了。"老陈连忙介绍｜"咱"=我们的（北方方言）
+Wav0039｜"老爷子，这是周雅周女士，新租户。｜"老爷子，这位是周雅女士，新租户。"｜双称谓结构
+Wav0040｜周雅伸出手："佟叔叔好。"｜周雅伸出手："佟叔叔好。"｜"叔叔"=礼貌称谓
+Wav0041｜佟老爷子没握，只是点点头："叫佟爷就成，胡同里都这么叫。｜佟老爷子没有握手，只是点头："叫我佟爷就行，胡同里都这么称呼。｜"就成"=就可以（北京话）
+Wav0042｜周雅的手尴尬地停在半空，收了回去｜周雅的手尴尬地悬在空中，收了回去｜"半空"=空间位置标记
+Wav0043｜老陈赶紧打圆场："佟爷是老北京，讲究多，您别介意。｜老陈连忙调解："佟爷是老北京人，规矩多，请您别介意。"｜"打圆场"=调解矛盾
+Wav0044｜"卫生间那水龙头我看看去。"老陈说着就往院里钻｜"我去看看卫生间那个水龙头。｜老陈说着就快步走进院子｜"看看去"=去看看（北方方言）
+Wav0045｜周雅看了看四周，眉头微皱｜周雅环顾四周，微微皱眉｜肢体语言描写
+Wav0046｜"陈先生，这胡同里...没有独立卫生间吗？｜"陈先生，这胡同里...没有独立卫生间吗？"｜省略号保留犹豫语气
+Wav0047｜佟老爷子一听这话，心里就不痛快了｜佟老爷子听到这话，心里就不舒服了｜"不痛快"=不高兴（含蓄表达）
+Wav0048｜"姑娘，咱这是老北京胡同，不是您那高楼大厦｜"姑娘，我们这是老北京胡同，不是您住的那种高楼｜"咱"=我们
+Wav0049｜公厕在前头五十米，洗澡得上澡堂子。"｜"公共厕所在前面五十米，洗澡要去澡堂。"｜"得"=要
+Wav0050｜周雅脸色变了："什么？我付的租金可不低，连独立卫生间都没有？｜周雅脸色变了："什么？我付的租金不便宜，竟然没有独立卫生间？"｜"可"=强调语气
+Wav0051｜老陈赶紧跑回来："周女士，看房时候我跟您说了这是胡同平房..."｜老陈急忙跑回来："周女士，看房时我告诉过您这是胡同平房..."｜"四合院"文化概念
+Wav0052｜"您可没说要用公共厕所！"周雅声音提高了八度，"我女儿才五岁，晚上起夜怎么办？｜"您可没说过要用公共厕所！"周雅提高嗓门，"我女儿才五岁，晚上上厕所怎么办？"｜"八度"=夸张表达
+Wav0053｜胡同里几个邻居已经探头探脑往这边瞅了｜胡同里几个邻居已经探头往这边看了｜"探头探脑"=好奇张望
+Wav0054｜卖煎饼的张婶假装整理摊位，实际上耳朵竖得老高｜卖煎饼的张婶假装收拾摊位，其实竖着耳朵听｜"老高"=非常（北京话程度副词）
+Wav0055｜佟老爷子冷哼一声："我们胡同孩子都是这么长大的，没见谁掉茅坑里。"｜佟老爷子冷笑说："我们胡同的孩子都这样长大，没人掉进茅坑。"｜"茅坑"=传统旱厕
+Wav0056｜"您这叫什么话！"周雅气得脸通红，"这是基本生活条件！"｜"您这是什么话！"周雅气得脸红，"这是基本生活条件！"｜"叫话"=表达方式
+Wav0057｜"嫌条件差别住这儿啊！"佟老爷子也来气了，"好好的四合院，非改成什么LOFT，你们这些年轻人..."｜"嫌条件差就别住这儿！"佟老爷子也生气了，"好好的四合院，非要改成LOFT，你们年轻人..."｜"非...不可"=固执坚持
+Wav0058｜"佟爷！佟爷！消消气儿！"老陈急得直跺脚｜"佟爷！别生气了！"老陈着急地跺脚	重复称呼表急切
+Wav0059｜"周女士，要不这样，我在院里给您单独装个马桶，成不？"｜"周女士，要不这样，我在院里给您单独装个马桶，行吗？"｜"成不"=可以吗（商量语气）
+Wav0060｜周雅深吸一口气：｜周雅深深吸气：｜肢体语言描写
+Wav0061｜"我今天还要上班，这事晚上再说。"说完转身进院里头，高跟鞋踩得石板路噔噔响｜"我今天还要上班，这事晚上再谈。"说完转身走进院子，高跟鞋踩得石板路噔噔响｜"再说"=延迟处理
+Wav0062｜佟老爷子冲着她的背影嘟囔着："穿这么高的跟儿，也不怕崴自个儿脚脖子！｜佟老爷子对着她的背影嘀咕："穿这么高的鞋跟，不怕扭伤脚踝吗？"｜"脚脖子"=脚踝（方言）
+Wav0063｜"哎哟我的佟爷诶，您少说两句吧。"｜"哎呀佟爷啊，您少说两句吧。"｜"诶"=语气词（缓和语气）
+Wav0064｜老陈愁眉苦脸，"这房租可不便宜，跑了租客我喝西北风去啊？｜老陈一脸愁容："这房租不便宜，租客走了我怎么办？"｜"喝西北风"=没收入（俚语）
+Wav0065｜佟老爷子撇撇嘴，背着手往院里走｜佟老爷子撇了撇嘴，双手背在身后往院里走｜肢体语言描写
+Wav0066｜路过西厢房时，看见个小姑娘坐在行李箱上，约莫五六岁，扎着俩小辫儿，正啃手指头｜经过西厢房时，看见一个小女孩坐在行李箱上，大约五六岁，扎着两条小辫子，正在啃手指｜"约莫"=大约（口语）
+Wav0067｜"丫头，叫什么名儿？"佟老爷子停下脚步｜"丫头"=对小女孩的昵称
+Wav0068｜小姑娘抬起头，大眼睛忽闪忽闪的："我叫小满，妈妈说我是小满那天生的。"｜小女孩抬起头，眼睛亮晶晶的："我叫小满，妈妈说我是小满节气出生的。"｜"忽闪忽闪"=眨眼（拟态词）
+Wav0069｜佟老爷子脸色缓和下来："这名儿不错，二十四节气，有讲究。"｜	佟老爷子表情缓和："这名字很好，二十四节气，很有意义。""讲究"=文化内涵
+Wav0069｜佟老爷子脸色缓和下来："这名儿不错，二十四节气，有讲究。"｜佟老爷子表情缓和："这名字很好，二十四节气，很有意义。｜"讲究"=文化内涵
+Wav0070｜他从兜里掏出块水果糖，"喏，大白兔，你们小孩儿都爱吃。"｜他从口袋里拿出一颗水果糖，"来，大白兔糖，小孩子都喜欢吃。"｜"喏"=递东西时的语气词
+Wav0071｜小满看看糖，又看看佟老爷子，没敢接｜小满看了看糖，又看了看佟老爷子，不敢接｜双重动作描写
+Wav0072｜这时周雅从屋里出来，见状立刻把小满拉过去｜这时周雅从屋里出来，看到后立刻拉过小满｜
+Wav0073｜"不要随便拿陌生人给的东西！"｜"不要随便接受陌生人给的东西！"｜教育用语
+Wav0074｜佟老爷子气得胡子都翘起来了："我怎么就陌生人了？我在这胡同住了一甲子！街坊邻居谁不知道我佟守业？"｜佟老爷子气得胡子翘起："我怎么是陌生人？我在这胡同住了六十年！街坊谁不认识我佟守业？"｜"一甲子"=60年（传统计时）
+Wav0075｜"妈，爷爷给糖..."小满小声说｜"妈妈，爷爷给我糖..."小满小声说｜省略宾语（我）
+Wav0076｜"说了不能要！"周雅严厉地说，然后对佟老爷子道｜"说了不能拿｜"周雅严厉地说，然后对佟老爷子说｜
+Wav0077｜"不好意思，我们教育孩子不能随便接受陌生人的食物。"｜"抱歉，我们教孩子不能随便拿陌生人的食物。"｜委婉拒绝
+Wav0078｜佟老爷子把糖塞回兜里，冷笑一声："行，您教育得好。往后咱井水不犯河水。"｜佟老爷子把糖塞回口袋，冷笑道："好，您教得好。以后我们互不干涉。"｜成语直译+意译
+Wav0079｜说完大步走向东厢房，把门摔得山响｜说完大步走向东厢房，重重地摔上门｜"山响"=夸张修辞
+Wav0080｜院里静了几秒，老陈尴尬地咳嗽一声｜院子里安静了几秒，老陈尴尬地咳了一声｜环境氛围描写
+Wav0081｜"周女士，佟爷人其实特别好，就是脾气倔了点..."｜"周女士，佟爷人其实很好，只是脾气有点倔..."｜委婉调解用语
+Wav0082｜周雅没说话，拉着小满进了西厢房｜周雅沉默着，拉小满进入西厢房｜非语言行为
+Wav0083｜老陈站在院里，左看看右看看，最后叹了口气｜老陈站在院中，左右张望，最后叹息｜肢体语言序列
+Wav0084｜掏出手机开始打电话联系装马桶的事｜拿出手机打电话联系安装马桶的事｜现代物品引入
+Wav0085｜东厢房里，佟老爷子坐在藤椅上生闷气｜东厢房内，佟老爷子坐在藤椅上生气｜传统家具标注
+Wav0086｜窗外传来搬家具的声响和小满偶尔的说话声｜窗外传来搬家具的声音和小满偶尔的说话声｜
+Wav0087｜他拿起桌上的老照片｜他拿起桌上的旧照片｜
+Wav0088｜上面啊是二十年前的百花儿深处胡同儿｜"上面是二十年前的百花深处胡同"｜
+Wav0089｜街坊邻居聚在院儿里吃饭｜邻居们在院里聚餐｜
+Wav0090｜孩子们在胡同里追跑打闹｜孩子们在胡同追逐玩耍｜
+Wav0091｜"都变喽..."佟老爷子喃喃自语｜"全变了..."佟老爷子低声自语｜方言语气词
+Wav0092｜"这北京城儿，越来越不认识喽..."｜"这北京城，越来越陌生了..."｜
+Wav0093｜第二天一早，佟老爷子是被一阵尖叫声惊醒的｜第二天一早，佟老爷子是被一阵尖叫声惊醒的｜
+Wav0094｜"哎呀！老鼠！｜"哎呀！老鼠！"｜
+Wav0095｜东厢房的窗户"砰"地被推开｜东厢房的窗户"砰"地被推开｜
+Wav0096｜佟老爷子眯着老花眼往外瞅｜佟老爷子眯着老花眼向外看｜视觉动作描写
+Wav0097｜周雅穿着睡衣，站在西厢房门口跳脚，手里还拿着个扫把｜周雅穿着睡衣在西厢房门口跺脚，手里拿着扫帚｜
+Wav0098｜"大清早的，嚷嚷什么..."佟老爷子嘟囔着披上衣服｜"一大早的，吵什么..."佟老爷子边嘟囔边穿衣｜
+Wav0099｜院里已经热闹起来了。张婶端着碗豆浆站在月亮门那儿看热闹｜院里已经热闹起来。张婶端着豆浆站在月亮门看热闹｜李三叼着烟蹲在墙根笑｜儿化音昵称
+Wav0101｜"哟，周女士，见着耗子啦？"张婶吸溜着豆浆问｜"哟，周女士，见到老鼠了？"张婶喝着豆浆问｜"吸溜"拟声词
+Wav0102｜"这么老的房子怎么能没耗子呢。"李三儿吐着烟圈，"您拿扫把不管用，得养只猫。"｜"这么旧的房子当然有老鼠。"李三吐着烟圈，"扫把没用，得养猫。"｜
+Wav0103｜周雅脸色发白："这...这太不卫生了！我女儿还小..."｜周雅脸色苍白："这...太不卫生了！我女儿还小..."	｜省略号表停顿
+Wav0104｜佟老爷子慢悠悠地踱到院里，背着手看了看墙角｜佟老爷子缓步走进院子，背手查看墙角｜
+Wav0105｜"昨儿个剩饭没收拾吧？耗子鼻子灵着呢。"｜"昨天的剩饭没收拾吧？老鼠嗅觉很灵。"｜"灵着呢"强调句式
+Wav0106｜"我...我忘了倒垃圾..."周雅有些尴尬，"可是这也..."｜"我忘记倒垃圾了..."周雅略显尴尬，"但这..."｜
+Wav0107｜"您呀，得记着把剩饭菜封严实了，垃圾不能过夜｜您得记住把剩饭菜密封好，垃圾不能留过夜"｜呀=语气词；得=应该（北方方言）"
+Wav0108｜"张婶热心地说，"要不我给您只小猫崽子？我家大花刚下了一窝。"｜"张婶热情地说，'要不我给您一只小猫？我家大花刚生了一窝。｜"猫崽子=幼猫（方言爱称）"
+Wav0109｜周雅连连摆手："不用了谢谢，我对猫毛过敏。"｜"周雅不停摆手：'不用了谢谢，我对猫毛过敏。'"｜"连连=反复（动作重复）"
+Wav0110｜佟老爷子哼了一声，背着手往公厕方向走｜"佟老爷子哼了一声，双手背后朝公厕走去"｜
+Wav0111｜这新来的娘们儿｜"这个新来的女人"｜"娘们儿=女性（北方方言，含些许贬义）
+Wav0112｜事儿真够多的｜"事情真是多"｜"够多的=非常多（强调语气）"
+Wav0113｜公厕门口已经排起了队。早高峰时候都这样｜"公厕门前已经排起队。早高峰时都这样"｜
+Wav0114｜老街坊们一边排队一边唠嗑｜"老邻居们边排队边聊天"｜"唠嗑=闲聊（北方方言）
+Wav0115｜"佟爷，听说您那院儿搬来新住户啦？"卖菜的刘大妈问｜'佟爷，听说您院子搬来新住户了？'卖菜的刘大妈询问"｜"院儿=院子（儿化音）"
+Wav0116｜"嗯。"佟老爷子不爱多谈｜'嗯。'佟老爷子不愿多说"｜"省略句"
+Wav0117｜"听说是公司白领？男人咋没见着？"｜'听说是公司白领？怎么没见到男主人？'"｜"咋=怎么（方言）
+Wav0118｜"出差了吧。"佟老爷子应付着，心里也纳闷。搬来两天了，就没见着那家的男主人｜'出差了吧。'佟老爷子敷衍道，心里也疑惑。搬来两天都没见到那家男主人｜"了吧=推测语气"
+Wav0119｜排到佟老爷子时，他刚要进去｜"轮到佟老爷子时，他正要进去"｜"刚要=即将（时间副词）"
+Wav0120｜"后面传来急促的高跟鞋声"｜"身后传来急促的高跟鞋声"｜"传来=听觉感知动词"
+Wav0121｜"周雅拉着小满急匆匆赶来，脸色很难看"｜"周雅拽着小满匆忙赶来，表情很糟糕"｜"脸色=面部表情（转喻用法）"
+Wav0122｜"能不能...让我们先用一下？孩子着急..."周雅咬着嘴唇问｜'能否...让我们先用一下？孩子很急...'周雅咬着嘴唇问"｜
+Wav0123｜排后面的大爷大妈们互相看看｜"排在后面的大爷大妈们相互对视"｜
+Wav0124｜按规矩，插队可是大忌，但是啊带孩子是例外｜"按规定插队是大忌，但带孩子可以例外"｜"可是=强调语气"
+Wav0125｜佟老爷子侧身让了让："孩子先吧。"｜"佟老爷子侧身让开：'让孩子先吧。'｜
+Wav0126｜周雅匆匆道谢，拉着小满进去了｜"周雅快速道谢，牵着小满进去了"｜
+Wav0127｜不一会儿，里面传来小满的哭声："妈妈，我怕..."｜"很快，里面传出小满的哭声：'妈妈，我害怕...'｜
+Wav0128｜"忍一下，马上好！"周雅压着声音说｜'忍耐下，很快就好了！'周雅压低声音说"
+Wav0129｜外头排队的老街坊们憋着笑｜"外面排队的邻居们忍着笑"｜
+Wav0130｜佟老爷子摇了摇头，点了根烟等着｜"佟老爷子摇摇头，点了支烟等候"｜
+Wav0131｜新来的就是新来的，连公厕都受不了，往后日子长着呢｜"新住户毕竟是新住户，连公厕都适应不了，以后日子还长"｜
+Wav0132｜周雅带着小满出来时，脸涨得通红｜"周雅领着小满出来时，脸红得厉害"｜
+Wav0133｜她低着头快步离开，连谢谢都没来得及说｜"她低着头快速离开，连道谢都来不及"｜
+Wav0134｜"这娘们儿，不懂规矩。"卖早点的老王点评道｜'这女人不懂规矩。'卖早餐的老王评价"
+Wav0135｜佟老爷子没搭腔，但心里也这么觉得｜"佟老爷子没接话，但心里也这么认为"｜"搭腔=应答（方言）"
+Wav0136｜下午，佟老爷子在院儿里晒他那老物件儿——几个蛐蛐罐、一副象棋、还有几个小面人｜"下午，佟老爷子在院子里晾晒他的老物件——几个蛐蛐罐、一副象棋、还有几个面人"｜"院儿=儿化音；物件儿=带感情色彩的爱称"
+Wav0137｜这是他的习惯，每年开春都要把这些东西拿出来晒晒，去去霉气｜"这是他的习惯，每年初春都要把这些东西拿出来晾晒，除霉味"｜去去=消除掉
+Wav0138｜"爷爷，这是什么呀？"｜爷爷，这是什么？｜
+Wav0139｜佟老爷子回头，看见小满趴在月亮门边｜"佟老爷子转头，看见小满趴在月亮门旁边"
+Wav0140｜只露出个小脑袋｜"只露出一个小脑袋"｜
+Wav0141｜"这叫面人儿。"佟老爷子拿起一个孙悟空造型的｜'这叫面人。'佟老爷子拿起一个孙悟空造型的"｜
+Wav0142｜小满怯生生地走近："真好看..."｜"小满怯怯地靠近：'真漂亮...'"｜
+Wav0143｜"你妈呢？"｜'你妈妈呢？'｜
+Wav0144｜"在屋里工作。"小满撇撇嘴，"妈妈总工作，不陪我玩。"｜'在房间工作。'小满撅着嘴，'妈妈总是工作，不陪我玩。'"｜
+Wav0145｜佟老爷子心里一软。｜"佟老爷子心头一软。"｜"心软=心理变化瞬间体"
+Wav0146｜他记得自个儿孙女小时候也这样｜"他记得自己孙女小时候也这样"｜"自个儿=反身代词（方言）"
+Wav0147｜儿子儿媳忙，孩子就爱粘着他｜"儿子儿媳忙，孩子就喜欢缠着他"｜
+Wav0148｜"会玩抓拐吗？"佟老爷子从兜里掏出几个羊拐骨｜'会玩抓拐吗？'佟老爷子从口袋里掏出几块羊拐骨"｜"抓拐=传统游戏（方言词）"
+Wav0149｜小满摇摇头，眼睛却亮了起来｜"小满摇摇头，眼睛却亮起来"｜"亮起来=起始体变化"
+Wav0150｜"看着啊。"佟老爷子把拐骨撒在地上，灵巧地抓起一个，抛向空中｜'看着。'佟老爷子将拐骨撒在地上，灵活地抓起一个抛向空中"｜
+Wav0151｜在它落下前迅速抓起地上的另一个，"这叫抓拐，我们小时候都玩这个。"｜"在它落地前快速抓起另一个，'这叫抓拐，我们小时候都玩这个｜
+Wav0152｜小满拍着手："爷爷真厉害！"｜"小满拍着手：'爷爷真棒！'｜
+Wav0153｜"来，试试。"｜'来，试一试。｜
+Wav0154｜小满学着佟老爷子的样子抛拐骨，却总是抓不住｜"小满模仿佟老爷子的动作抛拐骨，却总接不住"｜
+Wav0155｜佟老爷子也不急，一遍遍教她｜"佟老爷子也不着急，一次次教她"｜
+Wav0156｜不知不觉，太阳西斜了｜"不知不觉间，太阳西沉了"｜
+Wav0157｜"小满！小满！"周雅焦急的声音从西厢房传来｜｜'小满！小满！'周雅着急的声音从西厢房传来"｜
+Wav0158｜小满吓得一哆嗦，羊拐骨掉了一地｜"小满被吓得一抖，羊拐骨散落满地"｜
+Wav0159｜"妈..."｜'妈妈...'"｜
+Wav0160｜周雅冲进院子，看见小满和佟老爷子在一起，脸色立刻变了："你怎么跑这儿来了？｜"周雅跑进院子，看到小满和佟老爷子在一起，脸色骤变：'你怎么到这儿来了？"｜
+Wav0161｜妈妈不是告诉过你别乱跑吗？"｜"妈妈不是说过不要乱跑吗？"｜
+Wav0162｜"我...我看爷爷玩..."｜'我...我在看爷爷玩...'"｜
+Wav0163｜周雅一把拉过小满｜"周雅一把拽过小满｜
+Wav0164｜对佟老爷子僵硬地说｜"向佟老爷子生硬地说道"｜
+Wav0165｜"谢谢您看着孩子｜'谢谢您照看孩子"｜
+Wav0166｜但她以后不会来打扰您了。"｜"但她以后不会来打扰您了。｜
 *Cantonese Dialect*
 Wav0167|Cantonese|"嘩!係披薩到啦!"|"哇！披萨到了！"|Difference: Cantonese uses ""嘩"" (waa3) as a vivid interjection for surprise, while Mandarin uses ""哇"" (wā), which is phonetically similar but less emphatic in tone."
 Wav0168|Cantonese|"志援同志冠爭先恐後搶住去開門"|"志援和志冠争先恐后抢着去开门"|Difference: Cantonese uses ""搶住"" (coeng2 zyu6) to emphasize ongoing action, while Mandarin uses ""抢着"" (qiǎngzhe), which is less dynamic in expressing continuous effort."
